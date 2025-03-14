@@ -25,8 +25,8 @@ namespace E_Commers.Domain.Entities
         public required string Email { get; set; }
         public required string Password { get; set; }
         public string? PhoneNumber { get; set; }
-        public string? Addess { get; set; }
-        public bool IsActive { get; set; } = False; 
+        public string? Address { get; set; }
+        public bool IsActive { get; set; } = false; 
         
     }
 }
