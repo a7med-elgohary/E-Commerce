@@ -3,18 +3,20 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace E_Commers.Domain.Entities
 {
-    public class CardItems
+    // This table is created as a result of a many-to-many relationship between Product and Cart.
+
+    public class CartItem
     {
         //Attributes
         [Key]
         public int Id { get; set; }
-        [ForeignKey("Card")]
-        public int CardId { get; set; }
+        [ForeignKey("Cart")]
+        public int CartId { get; set; }
         [ForeignKey("Product")]
-        public int ProductId { get; set; }
-        public int Quantity { get; set; }
+        public int? ProductId { get; set; }
+        public int? Quantity { get; set; }
         // Navigation Properties
-        public Card Card { get; set; }
-        public Product Product { get; set; }
+        public virtual Cart? Cart { get; set; }
+        public virtual Product? Product { get; set; }
     }
 }

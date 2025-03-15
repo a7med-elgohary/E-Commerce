@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USERR\\Desktop\\E-Commers\\BackEnd\\E-Commers_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB0287B-5652-4E0E-B6EA-FFCCDDE1B423}|E-Commers\\E-Commers.csproj|c:\\users\\userr\\desktop\\e-commers\\backend\\e-commers_api\\e-commers\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB0287B-5652-4E0E-B6EA-FFCCDDE1B423}|E-Commers\\E-Commers.csproj|solutionrelative:e-commers\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB0287B-5652-4E0E-B6EA-FFCCDDE1B423}|E-Commers\\E-Commers.csproj|c:\\users\\userr\\desktop\\e-commers\\backend\\e-commers_api\\e-commers\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB0287B-5652-4E0E-B6EA-FFCCDDE1B423}|E-Commers\\E-Commers.csproj|solutionrelative:e-commers\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB0287B-5652-4E0E-B6EA-FFCCDDE1B423}|E-Commers\\E-Commers.csproj|c:\\users\\userr\\desktop\\e-commers\\backend\\e-commers_api\\e-commers\\domain\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB0287B-5652-4E0E-B6EA-FFCCDDE1B423}|E-Commers\\E-Commers.csproj|solutionrelative:e-commers\\domain\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB0287B-5652-4E0E-B6EA-FFCCDDE1B423}|E-Commers\\E-Commers.csproj|c:\\users\\userr\\desktop\\e-commers\\backend\\e-commers_api\\e-commers\\domain\\entities\\carditems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB0287B-5652-4E0E-B6EA-FFCCDDE1B423}|E-Commers\\E-Commers.csproj|solutionrelative:e-commers\\domain\\entities\\carditems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USERR\\Desktop\\E-Commers\\BackEnd\\E-Commers_API\\E-Commers\\Migrations\\20250315184256_someedites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:E-Commers\\Migrations\\20250315184256_someedites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB0287B-5652-4E0E-B6EA-FFCCDDE1B423}|E-Commers\\E-Commers.csproj|c:\\users\\userr\\desktop\\e-commers\\backend\\e-commers_api\\e-commers\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5AB0287B-5652-4E0E-B6EA-FFCCDDE1B423}|E-Commers\\E-Commers.csproj|solutionrelative:e-commers\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB0287B-5652-4E0E-B6EA-FFCCDDE1B423}|E-Commers\\E-Commers.csproj|c:\\users\\userr\\desktop\\e-commers\\backend\\e-commers_api\\e-commers\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB0287B-5652-4E0E-B6EA-FFCCDDE1B423}|E-Commers\\E-Commers.csproj|solutionrelative:e-commers\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB0287B-5652-4E0E-B6EA-FFCCDDE1B423}|E-Commers\\E-Commers.csproj|c:\\users\\userr\\desktop\\e-commers\\backend\\e-commers_api\\e-commers\\domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB0287B-5652-4E0E-B6EA-FFCCDDE1B423}|E-Commers\\E-Commers.csproj|solutionrelative:e-commers\\domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB0287B-5652-4E0E-B6EA-FFCCDDE1B423}|E-Commers\\E-Commers.csproj|c:\\users\\userr\\desktop\\e-commers\\backend\\e-commers_api\\e-commers\\infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB0287B-5652-4E0E-B6EA-FFCCDDE1B423}|E-Commers\\E-Commers.csproj|solutionrelative:e-commers\\infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB0287B-5652-4E0E-B6EA-FFCCDDE1B423}|E-Commers\\E-Commers.csproj|c:\\users\\userr\\desktop\\e-commers\\backend\\e-commers_api\\e-commers\\infrastructure\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB0287B-5652-4E0E-B6EA-FFCCDDE1B423}|E-Commers\\E-Commers.csproj|solutionrelative:e-commers\\infrastructure\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB0287B-5652-4E0E-B6EA-FFCCDDE1B423}|E-Commers\\E-Commers.csproj|c:\\users\\userr\\desktop\\e-commers\\backend\\e-commers_api\\e-commers\\infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB0287B-5652-4E0E-B6EA-FFCCDDE1B423}|E-Commers\\E-Commers.csproj|solutionrelative:e-commers\\infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB0287B-5652-4E0E-B6EA-FFCCDDE1B423}|E-Commers\\E-Commers.csproj|c:\\users\\userr\\desktop\\e-commers\\backend\\e-commers_api\\e-commers\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB0287B-5652-4E0E-B6EA-FFCCDDE1B423}|E-Commers\\E-Commers.csproj|solutionrelative:e-commers\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB0287B-5652-4E0E-B6EA-FFCCDDE1B423}|E-Commers\\E-Commers.csproj|c:\\users\\userr\\desktop\\e-commers\\backend\\e-commers_api\\e-commers\\domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB0287B-5652-4E0E-B6EA-FFCCDDE1B423}|E-Commers\\E-Commers.csproj|solutionrelative:e-commers\\domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\E-Commers\\BackEnd\\E-Commers_API\\E-Commers\\Domain\\Entities\\Cart.cs",
+              "RelativeDocumentMoniker": "E-Commers\\Domain\\Entities\\Cart.cs",
+              "ToolTip": "C:\\Users\\USERR\\Desktop\\E-Commers\\BackEnd\\E-Commers_API\\E-Commers\\Domain\\Entities\\Cart.cs",
+              "RelativeToolTip": "E-Commers\\Domain\\Entities\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:43:57.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CardItems.cs",
+              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\E-Commers\\BackEnd\\E-Commers_API\\E-Commers\\Domain\\Entities\\CardItems.cs",
+              "RelativeDocumentMoniker": "E-Commers\\Domain\\Entities\\CardItems.cs",
+              "ToolTip": "C:\\Users\\USERR\\Desktop\\E-Commers\\BackEnd\\E-Commers_API\\E-Commers\\Domain\\Entities\\CardItems.cs",
+              "RelativeToolTip": "E-Commers\\Domain\\Entities\\CardItems.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowBMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:43:24.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250315184256_someedites.cs",
+              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\E-Commers\\BackEnd\\E-Commers_API\\E-Commers\\Migrations\\20250315184256_someedites.cs",
+              "RelativeDocumentMoniker": "E-Commers\\Migrations\\20250315184256_someedites.cs",
+              "ToolTip": "C:\\Users\\USERR\\Desktop\\E-Commers\\BackEnd\\E-Commers_API\\E-Commers\\Migrations\\20250315184256_someedites.cs",
+              "RelativeToolTip": "E-Commers\\Migrations\\20250315184256_someedites.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:42:57.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\E-Commers\\BackEnd\\E-Commers_API\\E-Commers\\appsettings.json",
+              "RelativeDocumentMoniker": "E-Commers\\appsettings.json",
+              "ToolTip": "C:\\Users\\USERR\\Desktop\\E-Commers\\BackEnd\\E-Commers_API\\E-Commers\\appsettings.json",
+              "RelativeToolTip": "E-Commers\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-15T18:28:27.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\E-Commers\\BackEnd\\E-Commers_API\\E-Commers\\Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "E-Commers\\Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\USERR\\Desktop\\E-Commers\\BackEnd\\E-Commers_API\\E-Commers\\Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "E-Commers\\Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:12:39.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\E-Commers\\BackEnd\\E-Commers_API\\E-Commers\\Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "E-Commers\\Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\USERR\\Desktop\\E-Commers\\BackEnd\\E-Commers_API\\E-Commers\\Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "E-Commers\\Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAD4vxIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:11:47.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\E-Commers\\BackEnd\\E-Commers_API\\E-Commers\\Infrastructure\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "E-Commers\\Infrastructure\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\USERR\\Desktop\\E-Commers\\BackEnd\\E-Commers_API\\E-Commers\\Infrastructure\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "E-Commers\\Infrastructure\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T15:45:20.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\E-Commers\\BackEnd\\E-Commers_API\\E-Commers\\API\\Program.cs",
+              "RelativeDocumentMoniker": "E-Commers\\API\\Program.cs",
+              "ToolTip": "C:\\Users\\USERR\\Desktop\\E-Commers\\BackEnd\\E-Commers_API\\E-Commers\\API\\Program.cs",
+              "RelativeToolTip": "E-Commers\\API\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAmwEAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T15:10:06.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\E-Commers\\BackEnd\\E-Commers_API\\E-Commers\\Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "E-Commers\\Infrastructure\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\USERR\\Desktop\\E-Commers\\BackEnd\\E-Commers_API\\E-Commers\\Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "E-Commers\\Infrastructure\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T15:08:03.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\E-Commers\\BackEnd\\E-Commers_API\\E-Commers\\Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "E-Commers\\Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\USERR\\Desktop\\E-Commers\\BackEnd\\E-Commers_API\\E-Commers\\Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "E-Commers\\Domain\\Entities\\Order.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T15:04:01.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\E-Commers\\BackEnd\\E-Commers_API\\E-Commers\\Infrastructure\\data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "E-Commers\\Infrastructure\\data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\USERR\\Desktop\\E-Commers\\BackEnd\\E-Commers_API\\E-Commers\\Infrastructure\\data\\AppDbContext.cs",
+              "RelativeToolTip": "E-Commers\\Infrastructure\\data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:58:34.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\E-Commers\\BackEnd\\E-Commers_API\\E-Commers\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "E-Commers\\Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\USERR\\Desktop\\E-Commers\\BackEnd\\E-Commers_API\\E-Commers\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "E-Commers\\Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:53:26.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\E-Commers\\BackEnd\\E-Commers_API\\E-Commers\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "E-Commers\\Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\USERR\\Desktop\\E-Commers\\BackEnd\\E-Commers_API\\E-Commers\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "E-Commers\\Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:52:14.886Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

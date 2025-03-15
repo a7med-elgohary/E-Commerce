@@ -1,4 +1,7 @@
-﻿using Microsoft.OpenApi.Models;
+﻿using E_Commers.Infrastructure.data;
+using E_Commers.Infrastructure.Repositories.Interfaces;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.OpenApi.Models;
 
 namespace E_Commers.API
 {
@@ -8,10 +11,26 @@ namespace E_Commers.API
         {
             var builder = WebApplication.CreateBuilder(args);
 
-            // إضافة الخدمات
+            // ✅ إضافة الخدمات (Dependency Injection)
+            builder.Services.AddScoped<IUserRepository, UserRepository>();
+
+            // ✅ إضافة DbContext وربطه بـ SQL Server
+            builder.Services.AddDbContext<AppDbContext>(options =>
+                options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+            // ✅ إضافة CORS للسماح للـ Frontend بالتواصل مع API
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy("AllowAll",
+                    policy => policy.AllowAnyOrigin()
+                                    .AllowAnyMethod()
+                                    .AllowAnyHeader());
+            });
+
+            // ✅ إضافة الخدمات الأساسية
             builder.Services.AddControllers();
 
-            // إضافة Swagger
+            // ✅ إضافة Swagger للتوثيق
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen(options =>
             {
@@ -25,7 +44,7 @@ namespace E_Commers.API
 
             var app = builder.Build();
 
-            // تفعيل Swagger فقط في بيئة التطوير
+            // ✅ إعداد Swagger في بيئة التطوير فقط
             if (app.Environment.IsDevelopment())
             {
                 app.UseSwagger();
@@ -36,8 +55,16 @@ namespace E_Commers.API
                 });
             }
 
+            // ✅ تفعيل CORS
+            app.UseCors("AllowAll");
+
+            // ✅ تفعيل HTTPS
             app.UseHttpsRedirection();
+
+            // ✅ تفعيل Authorization
             app.UseAuthorization();
+
+            // ✅ تشغيل التطبيق
             app.MapControllers();
             app.Run();
         }

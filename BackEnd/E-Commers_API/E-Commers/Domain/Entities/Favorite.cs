@@ -9,11 +9,13 @@ namespace E_Commers.Domain.Entities
         //Attributes
         [Key]
         public int Id { get; set; }
+
         [ForeignKey("User")]
         public int UserId { get; set; }
+
         [ForeignKey("Product")]
         public int ProductId { get; set; }
-        public DateTime CreateDate { get; set; }
+        public DateTime CreateDate { get; set; } = DateTime.UtcNow;
         //Navigation Properties 
         public User User { get; set; }
         public Product Product { get; set; }

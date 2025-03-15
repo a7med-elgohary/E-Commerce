@@ -337,3 +337,4 @@ C:\Users\USERR\Desktop\E-Commers\BackEnd\E-Commers_API\E-Commers\obj\Debug\net9.
 C:\Users\USERR\Desktop\E-Commers\BackEnd\E-Commers_API\E-Commers\obj\Debug\net9.0\E-Commers.pdb
 C:\Users\USERR\Desktop\E-Commers\BackEnd\E-Commers_API\E-Commers\obj\Debug\net9.0\E-Commers.genruntimeconfig.cache
 C:\Users\USERR\Desktop\E-Commers\BackEnd\E-Commers_API\E-Commers\obj\Debug\net9.0\ref\E-Commers.dll
+C:\Users\USERR\Desktop\E-Commers\BackEnd\E-Commers_API\E-Commers\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

@@ -13,6 +13,6 @@ namespace E_Commers.Domain.Entities
         public int Quantity { get; set; } 
         public decimal SubTotal { get; set; }
         //Navigation Properties
-        public Orders Order { get; set; }
+        public Order Order { get; set; }
     }
 }

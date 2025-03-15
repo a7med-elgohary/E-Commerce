@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using Microsoft.EntityFrameworkCore;
+using System.ComponentModel.DataAnnotations;
 
 namespace E_Commers.Domain.Entities
 {
@@ -9,7 +10,7 @@ namespace E_Commers.Domain.Entities
             
         }
 
-        public User(int id, string name, string email, string password, string? phoneNumber = null, string? address = null, bool isActive = false)
+        public User(int id, string name, string email, string password, string? phoneNumber = null, string? address = null, bool isActive = false , bool isadmine = false)
         {
             Id = id;
             Name = name;
@@ -18,6 +19,7 @@ namespace E_Commers.Domain.Entities
             PhoneNumber = phoneNumber;
             Address = address;
             IsActive = isActive;
+            IsAdmin = isadmine;
         }
 
         public int Id { get; set; }
@@ -27,6 +29,7 @@ namespace E_Commers.Domain.Entities
         public string? PhoneNumber { get; set; }
         public string? Address { get; set; }
         public bool IsActive { get; set; } = false; 
-        
+        public bool IsAdmin { get; set; } = false;
+
     }
 }
