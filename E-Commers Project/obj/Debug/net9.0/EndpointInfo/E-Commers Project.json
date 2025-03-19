@@ -1,0 +1,10 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "E-Commerce MVC API",
+    "description": "API Documentation for E-Commerce project",
+    "version": "v1"
+  },
+  "paths": { },
+  "components": { }
+}

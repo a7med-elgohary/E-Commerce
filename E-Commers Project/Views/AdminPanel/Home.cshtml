@@ -1,0 +1,26 @@
+﻿@model List<User> 
+@{
+    ViewData["Title"] = "Home Page";
+    Layout = "_AdminLayout";
+}
+
+<h2>Hello Ahmed</h2>
+<table style="width: 100%; border-collapse: collapse; margin: 20px 0; font-size: 18px; text-align: left; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); border-radius: 8px; overflow: hidden;">
+    <thead style="background-color: #007bff; color: white;">
+        <tr>
+            <th style="padding: 12px; text-transform: uppercase;">ID</th>
+            <th style="padding: 12px; text-transform: uppercase;">Name</th>
+            <th style="padding: 12px; text-transform: uppercase;">Email</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr style="border-bottom: 1px solid #ddd; transition: background-color 0.3s ease-in-out;" onmouseover="this.style.backgroundColor='#f1f1f1';" onmouseout="this.style.backgroundColor='white';">
+                <td style="padding: 12px;">@item.Id</td>
+                <td style="padding: 12px;">@item.Name</td>
+                <td style="padding: 12px;">@item.Email</td>
+            </tr>
+        }
+    </tbody>
+</table>
