@@ -11,6 +11,7 @@ C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\wwwroot\lib\bootstrap
 C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
 C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\wwwroot\lib\jquery\dist\jquery.min.js
 C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\wwwroot\css\loginStyle.css
 C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
 C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
 C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
@@ -23,6 +24,7 @@ C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\wwwroot\lib\bootstrap
 C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
 C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\wwwroot\lib\jquery\dist\jquery.slim.min.map
 C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\wwwroot\js\Login.js
 C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\wwwroot\favicon.ico
 C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
 C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
@@ -62,10 +64,12 @@ C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\wwwroot\lib\bootstrap
 C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
 C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
 C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\css\loginStyle.css
 wwwroot\css\site.css
 wwwroot\css\style.css
 wwwroot\favicon.ico
 wwwroot\Imgs\image.png
+wwwroot\js\Login.js
 wwwroot\js\main.js
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "CCyEd5t96kSsfGqYHgjs0/LHV4Awn+Xx5Lc7YiUfGCk=",
+  "Hash": "a5viw9QEOj5seRybEWYskRaV2qOSCiAPbAPcJzKp7qc=",
   "Source": "E-Commers Project",
   "BasePath": "_content/E-Commers Project",
   "Mode": "Default",
@@ -59,12 +59,12 @@
       "OriginalItemSpec": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\obj\\Debug\\net9.0\\compressed\\2wz7j7uomt-b9sayid5wm.gz",
+      "Identity": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\obj\\Debug\\net9.0\\compressed\\2wz7j7uomt-5ipweew5fc.gz",
       "SourceId": "E-Commers Project",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/E-Commers Project",
-      "RelativePath": "css/site#[.{fingerprint=b9sayid5wm}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=5ipweew5fc}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -73,8 +73,8 @@
       "RelatedAsset": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "wf4wcyqcqt",
-      "Integrity": "fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=",
+      "Fingerprint": "5ipweew5fc",
+      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\css\\site.css"
@@ -309,6 +309,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\obj\\Debug\\net9.0\\compressed\\8rnqw88o44-lw4cr5ypp9.gz",
+      "SourceId": "E-Commers Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/E-Commers Project",
+      "RelativePath": "css/loginStyle#[.{fingerprint=lw4cr5ypp9}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\css\\loginStyle.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "w5m56ersju",
+      "Integrity": "dG3TSxICX6ofOHXO6ISQwAV6CcFiwqkYSb3ioXuq3Y8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\css\\loginStyle.css"
     },
     {
       "Identity": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\obj\\Debug\\net9.0\\compressed\\a779og217h-0j3bgjxly4.gz",
@@ -561,6 +582,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\obj\\Debug\\net9.0\\compressed\\g50rbs0z92-v03fjvv62j.gz",
+      "SourceId": "E-Commers Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/E-Commers Project",
+      "RelativePath": "js/Login#[.{fingerprint=v03fjvv62j}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\js\\Login.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "7kcd3uv4jk",
+      "Integrity": "KXSbMiAZ2dLhNiY53yEAx1ruv78XKzwJuSOBGbFSBl4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\js\\Login.js"
     },
     {
       "Identity": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\obj\\Debug\\net9.0\\compressed\\gf0j1fibre-61n19gt1b8.gz",
@@ -1445,6 +1487,27 @@
       "OriginalItemSpec": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\E-Commers Project.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\css\\loginStyle.css",
+      "SourceId": "E-Commers Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\",
+      "BasePath": "_content/E-Commers Project",
+      "RelativePath": "css/loginStyle#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lw4cr5ypp9",
+      "Integrity": "1TJzzbNImRsGYnqMpzdP3z6EfhlSY63jHyoWSjPQqX0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\loginStyle.css"
+    },
+    {
       "Identity": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\css\\site.css",
       "SourceId": "E-Commers Project",
       "SourceType": "Discovered",
@@ -1459,8 +1522,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "b9sayid5wm",
-      "Integrity": "j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=",
+      "Fingerprint": "5ipweew5fc",
+      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1527,6 +1590,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Imgs\\image.png"
+    },
+    {
+      "Identity": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\js\\Login.js",
+      "SourceId": "E-Commers Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\",
+      "BasePath": "_content/E-Commers Project",
+      "RelativePath": "js/Login#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v03fjvv62j",
+      "Integrity": "8QM+7liAVa+9gwsvh36lSI/3GmkT1oE07gFezpepkn4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Login.js"
     },
     {
       "Identity": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\js\\main.js",
@@ -2833,13 +2917,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.b9sayid5wm.css",
-      "AssetFile": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\obj\\Debug\\net9.0\\compressed\\2wz7j7uomt-b9sayid5wm.gz",
+      "Route": "css/loginStyle.css",
+      "AssetFile": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\obj\\Debug\\net9.0\\compressed\\8rnqw88o44-lw4cr5ypp9.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003125000000"
+          "Quality": "0.000707213579"
         }
       ],
       "ResponseHeaders": [
@@ -2849,15 +2933,152 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "319"
+          "Value": "1413"
         },
         {
           "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
+          "Value": "\"dG3TSxICX6ofOHXO6ISQwAV6CcFiwqkYSb3ioXuq3Y8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 18:47:02 GMT"
+          "Value": "Thu, 20 Mar 2025 06:41:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"1TJzzbNImRsGYnqMpzdP3z6EfhlSY63jHyoWSjPQqX0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1TJzzbNImRsGYnqMpzdP3z6EfhlSY63jHyoWSjPQqX0="
+        }
+      ]
+    },
+    {
+      "Route": "css/loginStyle.css",
+      "AssetFile": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\css\\loginStyle.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4774"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1TJzzbNImRsGYnqMpzdP3z6EfhlSY63jHyoWSjPQqX0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Mar 2025 06:41:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1TJzzbNImRsGYnqMpzdP3z6EfhlSY63jHyoWSjPQqX0="
+        }
+      ]
+    },
+    {
+      "Route": "css/loginStyle.css.gz",
+      "AssetFile": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\obj\\Debug\\net9.0\\compressed\\8rnqw88o44-lw4cr5ypp9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1413"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dG3TSxICX6ofOHXO6ISQwAV6CcFiwqkYSb3ioXuq3Y8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Mar 2025 06:41:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dG3TSxICX6ofOHXO6ISQwAV6CcFiwqkYSb3ioXuq3Y8="
+        }
+      ]
+    },
+    {
+      "Route": "css/loginStyle.lw4cr5ypp9.css",
+      "AssetFile": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\obj\\Debug\\net9.0\\compressed\\8rnqw88o44-lw4cr5ypp9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000707213579"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1413"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dG3TSxICX6ofOHXO6ISQwAV6CcFiwqkYSb3ioXuq3Y8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Mar 2025 06:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2877,13 +3098,174 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "W/\"1TJzzbNImRsGYnqMpzdP3z6EfhlSY63jHyoWSjPQqX0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "lw4cr5ypp9"
+        },
+        {
+          "Name": "label",
+          "Value": "css/loginStyle.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1TJzzbNImRsGYnqMpzdP3z6EfhlSY63jHyoWSjPQqX0="
+        }
+      ]
+    },
+    {
+      "Route": "css/loginStyle.lw4cr5ypp9.css",
+      "AssetFile": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\css\\loginStyle.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4774"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1TJzzbNImRsGYnqMpzdP3z6EfhlSY63jHyoWSjPQqX0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Mar 2025 06:41:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lw4cr5ypp9"
+        },
+        {
+          "Name": "label",
+          "Value": "css/loginStyle.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1TJzzbNImRsGYnqMpzdP3z6EfhlSY63jHyoWSjPQqX0="
+        }
+      ]
+    },
+    {
+      "Route": "css/loginStyle.lw4cr5ypp9.css.gz",
+      "AssetFile": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\obj\\Debug\\net9.0\\compressed\\8rnqw88o44-lw4cr5ypp9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1413"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dG3TSxICX6ofOHXO6ISQwAV6CcFiwqkYSb3ioXuq3Y8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Mar 2025 06:41:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lw4cr5ypp9"
+        },
+        {
+          "Name": "label",
+          "Value": "css/loginStyle.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dG3TSxICX6ofOHXO6ISQwAV6CcFiwqkYSb3ioXuq3Y8="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.5ipweew5fc.css",
+      "AssetFile": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\obj\\Debug\\net9.0\\compressed\\2wz7j7uomt-5ipweew5fc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "1.000000000000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Mar 2025 02:58:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
         },
         {
           "Name": "label",
@@ -2891,12 +3273,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css",
+      "Route": "css/site.5ipweew5fc.css",
       "AssetFile": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2906,7 +3288,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "667"
+          "Value": "0"
         },
         {
           "Name": "Content-Type",
@@ -2914,11 +3296,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 18:47:02 GMT"
+          "Value": "Thu, 20 Mar 2025 02:58:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2928,7 +3310,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "5ipweew5fc"
         },
         {
           "Name": "label",
@@ -2936,13 +3318,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css.gz",
-      "AssetFile": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\obj\\Debug\\net9.0\\compressed\\2wz7j7uomt-b9sayid5wm.gz",
+      "Route": "css/site.5ipweew5fc.css.gz",
+      "AssetFile": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\obj\\Debug\\net9.0\\compressed\\2wz7j7uomt-5ipweew5fc.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2951,7 +3333,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "319"
+          "Value": "0"
         },
         {
           "Name": "Content-Type",
@@ -2959,11 +3341,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 18:47:02 GMT"
+          "Value": "Thu, 20 Mar 2025 02:58:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2981,7 +3363,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "5ipweew5fc"
         },
         {
           "Name": "label",
@@ -2989,18 +3371,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I="
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
         }
       ]
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\obj\\Debug\\net9.0\\compressed\\2wz7j7uomt-b9sayid5wm.gz",
+      "AssetFile": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\obj\\Debug\\net9.0\\compressed\\2wz7j7uomt-5ipweew5fc.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003125000000"
+          "Quality": "1.000000000000"
         }
       ],
       "ResponseHeaders": [
@@ -3010,15 +3392,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "319"
+          "Value": "0"
         },
         {
           "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 18:47:02 GMT"
+          "Value": "Thu, 20 Mar 2025 02:58:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3038,13 +3420,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "W/\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
         }
       ]
     },
@@ -3059,7 +3441,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "667"
+          "Value": "0"
         },
         {
           "Name": "Content-Type",
@@ -3067,11 +3449,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 18:47:02 GMT"
+          "Value": "Thu, 20 Mar 2025 02:58:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3081,13 +3463,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
         }
       ]
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\obj\\Debug\\net9.0\\compressed\\2wz7j7uomt-b9sayid5wm.gz",
+      "AssetFile": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\obj\\Debug\\net9.0\\compressed\\2wz7j7uomt-5ipweew5fc.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3096,7 +3478,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "319"
+          "Value": "0"
         },
         {
           "Name": "Content-Type",
@@ -3104,11 +3486,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 18:47:02 GMT"
+          "Value": "Thu, 20 Mar 2025 02:58:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3126,7 +3508,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I="
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
         }
       ]
     },
@@ -3155,7 +3537,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 23:31:06 GMT"
+          "Value": "Thu, 20 Mar 2025 02:53:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3208,7 +3590,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 23:31:06 GMT"
+          "Value": "Thu, 20 Mar 2025 02:53:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3245,7 +3627,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 23:31:06 GMT"
+          "Value": "Thu, 20 Mar 2025 02:53:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3292,7 +3674,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 23:31:06 GMT"
+          "Value": "Thu, 20 Mar 2025 02:53:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3353,7 +3735,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 23:31:06 GMT"
+          "Value": "Thu, 20 Mar 2025 02:53:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3398,7 +3780,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 23:31:06 GMT"
+          "Value": "Thu, 20 Mar 2025 02:53:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3453,7 +3835,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 18:55:54 GMT"
+          "Value": "Thu, 20 Mar 2025 06:05:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3506,7 +3888,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 18:55:54 GMT"
+          "Value": "Thu, 20 Mar 2025 06:05:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3543,7 +3925,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 18:55:54 GMT"
+          "Value": "Thu, 20 Mar 2025 06:05:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3590,7 +3972,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 18:55:54 GMT"
+          "Value": "Thu, 20 Mar 2025 06:05:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3643,7 +4025,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 18:55:54 GMT"
+          "Value": "Thu, 20 Mar 2025 06:05:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3680,7 +4062,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 18:55:54 GMT"
+          "Value": "Thu, 20 Mar 2025 06:05:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3727,7 +4109,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 18:55:54 GMT"
+          "Value": "Thu, 20 Mar 2025 06:05:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3788,7 +4170,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 18:55:54 GMT"
+          "Value": "Thu, 20 Mar 2025 06:05:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3833,7 +4215,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 18:55:54 GMT"
+          "Value": "Thu, 20 Mar 2025 06:05:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3888,7 +4270,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 18:55:54 GMT"
+          "Value": "Thu, 20 Mar 2025 06:05:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3949,7 +4331,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 18:55:54 GMT"
+          "Value": "Thu, 20 Mar 2025 06:05:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3994,7 +4376,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 18:55:54 GMT"
+          "Value": "Thu, 20 Mar 2025 06:05:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4401,6 +4783,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-IngHN3B9BYBts9ILBl0FIkbeHrJtv/aSJhKWyexwFP4="
+        }
+      ]
+    },
+    {
+      "Route": "js/Login.js",
+      "AssetFile": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\obj\\Debug\\net9.0\\compressed\\g50rbs0z92-v03fjvv62j.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004807692308"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "207"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KXSbMiAZ2dLhNiY53yEAx1ruv78XKzwJuSOBGbFSBl4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Mar 2025 01:30:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"8QM+7liAVa+9gwsvh36lSI/3GmkT1oE07gFezpepkn4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8QM+7liAVa+9gwsvh36lSI/3GmkT1oE07gFezpepkn4="
+        }
+      ]
+    },
+    {
+      "Route": "js/Login.js",
+      "AssetFile": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\js\\Login.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "465"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8QM+7liAVa+9gwsvh36lSI/3GmkT1oE07gFezpepkn4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Mar 2025 01:30:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8QM+7liAVa+9gwsvh36lSI/3GmkT1oE07gFezpepkn4="
+        }
+      ]
+    },
+    {
+      "Route": "js/Login.js.gz",
+      "AssetFile": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\obj\\Debug\\net9.0\\compressed\\g50rbs0z92-v03fjvv62j.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "207"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KXSbMiAZ2dLhNiY53yEAx1ruv78XKzwJuSOBGbFSBl4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Mar 2025 01:30:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KXSbMiAZ2dLhNiY53yEAx1ruv78XKzwJuSOBGbFSBl4="
+        }
+      ]
+    },
+    {
+      "Route": "js/Login.v03fjvv62j.js",
+      "AssetFile": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\obj\\Debug\\net9.0\\compressed\\g50rbs0z92-v03fjvv62j.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004807692308"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "207"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KXSbMiAZ2dLhNiY53yEAx1ruv78XKzwJuSOBGbFSBl4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Mar 2025 01:30:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"8QM+7liAVa+9gwsvh36lSI/3GmkT1oE07gFezpepkn4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v03fjvv62j"
+        },
+        {
+          "Name": "label",
+          "Value": "js/Login.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8QM+7liAVa+9gwsvh36lSI/3GmkT1oE07gFezpepkn4="
+        }
+      ]
+    },
+    {
+      "Route": "js/Login.v03fjvv62j.js",
+      "AssetFile": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\js\\Login.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "465"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8QM+7liAVa+9gwsvh36lSI/3GmkT1oE07gFezpepkn4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Mar 2025 01:30:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v03fjvv62j"
+        },
+        {
+          "Name": "label",
+          "Value": "js/Login.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8QM+7liAVa+9gwsvh36lSI/3GmkT1oE07gFezpepkn4="
+        }
+      ]
+    },
+    {
+      "Route": "js/Login.v03fjvv62j.js.gz",
+      "AssetFile": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\obj\\Debug\\net9.0\\compressed\\g50rbs0z92-v03fjvv62j.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "207"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KXSbMiAZ2dLhNiY53yEAx1ruv78XKzwJuSOBGbFSBl4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Mar 2025 01:30:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v03fjvv62j"
+        },
+        {
+          "Name": "label",
+          "Value": "js/Login.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KXSbMiAZ2dLhNiY53yEAx1ruv78XKzwJuSOBGbFSBl4="
         }
       ]
     },

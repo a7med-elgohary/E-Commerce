@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - AdminPanel</title>
+    <title>@ViewData["Title"]</title>
     <script type="importmap"></script>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
@@ -11,9 +11,9 @@
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <nav class="navbar navbar-expand-sm bg-dark">
             <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">AdminPanel</a>
+                <a class="navbar-brand text-light" asp-area="" asp-controller="Home" asp-action="Index">AdminPanel</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -31,19 +31,74 @@
             </div>
         </nav>
     </header>
-    <div class="container" >
-        <main role="main" class="pb-3">
-            @RenderBody()
-        </main>
-    <a class="btn btn-success"  asp-controller="AdminPanel" asp-action="Home">LogIn</a>
-        
-    </div>
 
-    <footer class="border-top footer text-muted">
-        <div class="container">
+    <div class="bg-black mw-100"></div>
+    <h1>Ahmed</h1>
+    <a class="btn btn-primary" asp-action="AuthScreen" asp-controller="Auth">Login</a>
+
+    <main role="main">
+        @RenderBody()
+    </main>
+
+   @*  <footer class="bg-dark text-light pt-5 ">
+        <div class="Section text-center text-md-start">
+            <div class="row" style="margin-right:0px;">
+                <!-- Company Info -->
+                <div class="col-md-3 col-lg-3 col-xl-3 mx-auto mb-4">
+                    <h5 class="text-uppercase fw-bold">ShopName</h5>
+                    <p>Discover the best deals on our eCommerce platform. Quality products at the best prices.</p>
+                </div>
+
+                <!-- Quick Links -->
+                <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
+                    <h5 class="text-uppercase fw-bold">Quick Links</h5>
+                    <ul class="list-unstyled">
+                        <li></li>
+                        <li><a href="#" class="text-light text-decoration-none">Shop</a></li>
+                        <li><a href="#" class="text-light text-decoration-none">About Us</a></li>
+                        <li><a href="#" class="text-light text-decoration-none">Contact</a></li>
+                    </ul>
+                </div>
+
+                <!-- Customer Service -->
+                <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
+                    <h5 class="text-uppercase fw-bold">Customer Service</h5>
+                    <ul class="list-unstyled">
+                        <li><a href="#" class="text-light text-decoration-none">FAQ</a></li>
+                        <li><a href="#" class="text-light text-decoration-none">Returns</a></li>
+                        <li><a href="#" class="text-light text-decoration-none">Shipping</a></li>
+                        <li><a href="#" class="text-light text-decoration-none">Privacy Policy</a></li>
+                    </ul>
+                </div>
+
+                <!-- Contact -->
+                <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-4">
+                    <h5 class="text-uppercase fw-bold">Contact</h5>
+                    <p><i class="fas fa-home me-2"></i> 123 Street, City, Country</p>
+                    <p><i class="fas fa-envelope me-2"></i> support@shopname.com</p>
+                    <p><i class="fas fa-phone me-2"></i> +1 234 567 890</p>
+                </div>
+            </div>
+
+            <!-- Social Media -->
+            <div class="text-center mt-4">
+                <a href="#" class="text-light me-3"><i class="fab fa-facebook fa-lg"></i></a>
+                <a href="#" class="text-light me-3"><i class="fab fa-twitter fa-lg"></i></a>
+                <a href="#" class="text-light me-3"><i class="fab fa-instagram fa-lg"></i></a>
+                <a href="#" class="text-light me-3"><i class="fab fa-linkedin fa-lg"></i></a>
+            </div>
+
+            <!-- Copyright -->
+            <div class="text-center mt-3">
+                <p class="mb-0">© 2024 ShopName. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>   *@
+  @* <footer class="border-top footer text-muted " style="height:100px;">
+        <div class="Section">
             &copy; 2025 - AdminPanel - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
         </div>
-    </footer>
+    </footer>  *@
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>

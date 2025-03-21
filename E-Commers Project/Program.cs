@@ -1,7 +1,13 @@
 ﻿using E_Commers.Infrastructure.data;
 using E_Commers.Infrastructure.Repositories.Interfaces;
+using E_Commers_Project.Application.InterFaces;
+using E_Commers_Project.Application.Services;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
+using System.Text;
 
 namespace E_Commers_Project
 {
@@ -10,6 +16,19 @@ namespace E_Commers_Project
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+
+            // Seetion 
+            builder.Services.AddDistributedMemoryCache();
+            builder.Services.AddSession(options =>
+            {
+                options.IdleTimeout = TimeSpan.FromMinutes(30);
+                options.Cookie.HttpOnly = true;
+                options.Cookie.IsEssential = true;
+            });
+
+
+
+            builder.Services.AddAuthorization();
 
             // ✅ إضافة الخدمات
             builder.Services.AddControllersWithViews();
@@ -20,6 +39,7 @@ namespace E_Commers_Project
 
             // ✅ إضافة Dependency Injection
             builder.Services.AddScoped<IUserRepository, UserRepository>();
+            builder.Services.AddScoped<IUserService , UserService>();
 
             // ✅ إضافة CORS (إذا كان مطلوبًا)
             builder.Services.AddCors(options =>
@@ -42,6 +62,9 @@ namespace E_Commers_Project
                 });
             });
 
+
+
+
             var app = builder.Build();
 
             // ✅ إعداد الـ Middleware
@@ -61,6 +84,8 @@ namespace E_Commers_Project
                 });
             }
 
+            app.UseSession();
+            app.UseAuthorization();
             app.UseHttpsRedirection();
             app.UseStaticFiles();
             app.UseRouting();

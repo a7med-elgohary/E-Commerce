@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\Imgs\\image.png"
     },
     {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\css\\loginStyle.css",
+      "PackagePath": "staticwebassets\\css\\loginStyle.css"
+    },
+    {
       "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -19,6 +23,10 @@
     {
       "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\js\\Login.js",
+      "PackagePath": "staticwebassets\\js\\Login.js"
     },
     {
       "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\js\\main.js",

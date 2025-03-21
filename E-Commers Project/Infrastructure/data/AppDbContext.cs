@@ -1,4 +1,4 @@
-﻿using E_Commers_Project.Models;
+﻿using E_Commers_Project.Domain.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace E_Commers.Infrastructure.data
