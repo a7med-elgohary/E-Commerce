@@ -1,0 +1,319 @@
+ /* fonts */
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap");
+
+/*  Globals  */
+* {
+  font-family: "Ubuntu", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --blue: #005e7a;
+  --white: #fff;
+  --gray: #f5f5f5;
+  --black1: #222;
+  --black2: #999;
+}
+
+body {
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+.container {
+  position: relative;
+  width: 100%;
+}
+
+/*  Navigation  */
+.navigation {
+  position: fixed;
+  width: 200px;
+  height: 100%;
+  background: var(--blue);
+  border-left: 10px solid var(--blue);
+  transition: 0.5s;
+  overflow: auto;
+      /* الي تحت دول جبتهم من chatgpt (متسئلش عليهم يا جوهرى) */
+
+  scrollbar-width: none; /* يخفي السكرول في Firefox */
+  -ms-overflow-style: none; /* يخفي السكرول في Internet Explorer */
+  
+}
+
+.navigation.active {
+  width: 80px;
+}
+
+.navigation ul {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+.navigation ul li {
+  position: relative;
+  width: 100%;
+  list-style: none;
+  border-top-left-radius: 30px;
+  border-bottom-left-radius: 30px;
+}
+
+.navigation ul li:hover,
+.navigation ul li.hovered {
+  background-color: var(--white);
+}
+
+.navigation ul li:nth-child(1) {
+  margin-top: 90px;
+}
+
+.navigation ul li a {
+  position: relative;
+  display: block;
+  width: 100%;
+  display: flex;
+  text-decoration: none;
+  color: var(--white);
+}
+.navigation ul li:hover a,
+.navigation ul li.hovered a {
+  color: var(--blue);
+}
+
+.navigation ul li a .icon {
+  position: relative;
+  display: block;
+  min-width: 60px;
+  height: 60px;
+  line-height: 75px;
+  text-align: center;
+}
+.navigation ul li a .icon ion-icon {
+  font-size: 1.75rem;
+}
+
+.navigation ul li a .title {
+  position: relative;
+  display: block;
+  padding: 0 10px;
+  height: 60px;
+  line-height: 60px;
+  text-align: start;
+  white-space: nowrap;
+}
+
+/* curve outside  */
+.navigation ul li:hover a::before,
+.navigation ul li.hovered a::before {
+  content: "";
+  position: absolute;
+  right: 0;
+  top: -50px;
+  width: 50px;
+  height: 50px;
+  background-color: transparent;
+  border-radius: 50%;
+  box-shadow: 35px 35px 0 10px var(--white);
+  pointer-events: none;
+}
+.navigation ul li:hover a::after,
+.navigation ul li.hovered a::after {
+  content: "";
+  position: absolute;
+  right: 0;
+  bottom: -50px;
+  width: 50px;
+  height: 50px;
+  background-color: transparent;
+  border-radius: 50%;
+  box-shadow: 35px -35px 0 10px var(--white);
+  pointer-events: none;
+}
+
+/*  Main  */
+.main {
+  position: absolute;
+  width: calc(100% - 200px);
+  left: 200px;
+  min-height: 100vh;
+  background: var(--white);
+  transition: 0.5s;
+}
+.main.active {
+  width: calc(100% - 80px);
+  left: 80px;
+}
+
+.topbar {
+    background: var(--blue);
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 10px;
+}
+
+.toggle {
+  position: relative;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2.5rem;
+  cursor: pointer;
+}
+
+.search {
+  position: relative;
+  width: 400px;
+  margin: 0 10px;
+}
+
+.search label {
+  position: relative;
+  width: 100%;
+}
+
+.search label input {
+  width: 100%;
+  height: 40px;
+  border-radius: 40px;
+  padding: 5px 20px;
+  padding-left: 35px;
+  font-size: 18px;
+  outline: none;
+  border: 1px solid var(--black2);
+}
+
+.search label ion-icon {
+  position: absolute;
+  top: 0;
+  left: 10px;
+  font-size: 1.2rem;
+}
+
+.user {
+  position: relative;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.user img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.content {
+    padding: 20px;
+    min-height: calc(100vh - 60px); /* خصم ارتفاع الهيدر */
+    display: flex; /* تفعيل Flexbox */
+    flex-direction: column; /* ترتيب العناصر عموديًا */
+    align-items: center;
+    border-radius: 10px; /* زوايا ناعمة */
+}
+
+
+
+/*  Responsive Design  */
+ @media (max-width: 991px) {
+  .navigation {
+    left: -300px;
+  }
+  .navigation.active {
+    width: 300px;
+    left: 0;
+  }
+  .main {
+    width: 100%;
+    left: 0;
+  }
+  .main.active {
+    left: 300px;
+  }
+  .toggle {
+    z-index: 10001;
+  }
+}
+
+@media (max-width: 480px) {
+  .topbar {
+    padding: 0 5px;
+  }
+  .navigation {
+    width: 100%;
+    left: -100%;
+    z-index: 1000;
+  }
+  .navigation.active {
+    width: 100%;
+    left: 0;
+  }
+  .toggle {
+    z-index: 10001;
+  }
+  .main.active .toggle {
+    color: #fff;
+    position: fixed;
+    right: 0;
+    left: initial;
+  }
+}
+
+/*.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 100vh;
+    padding: 20px;
+    background-color: antiquewhite;
+}
+
+    .content table {
+        width: 80%;*/ /* تقليل العرض لجعل الجدول أكثر وضوحًا */
+        /*max-width: 900px;
+        border-collapse: collapse;
+        margin-top: 20px;
+        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);*/ /* تأثير ظل جميل */
+        /*background: white;*/ /* لون خلفية الجدول */
+        /*border-radius: 10px;
+        overflow: hidden;
+    }
+
+        .content table thead tr {
+            background-color: aquamarine;
+            color: black;
+            font-weight: bold;
+            text-align: left;
+            border-bottom: 3px solid #009688;*/ /* لون حد سفلي مميز */
+        /*}
+
+        .content table th,
+        .content table td {
+            padding: 12px 15px;
+            text-align: center;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .content table tbody tr:nth-child(even) {
+            background-color: #f9f9f9;*/ /* لون مختلف لكل صف زوجي */
+        /*}
+
+        .content table tbody tr:hover {
+            background-color: #e0f7fa;*/ /* تأثير عند تمرير الماوس */
+            /*transition: 0.3s ease-in-out;
+        }*/
+

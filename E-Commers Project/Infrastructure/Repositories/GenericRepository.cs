@@ -23,7 +23,7 @@ namespace E_Commers.Infrastructure.Repositories
             return await _dbSet.Where(predicate).ToListAsync();
         }
 
-        public async Task<IEnumerable<T?>> GetAllAsync()
+        public virtual async Task<IEnumerable<T?>> GetAllAsync()
         {
             return await _dbSet.ToListAsync();
         }

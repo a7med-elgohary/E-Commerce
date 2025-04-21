@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "ContainingType": "E_Commers_Project.WebApi.Controllers.ProductController",
+    "Method": "GetAllProducts",
+    "RelativePath": "api/Product",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

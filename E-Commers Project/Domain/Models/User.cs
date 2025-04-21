@@ -25,7 +25,7 @@ namespace E_Commers_Project.Domain.Models
 
         [Required] // 🔹 لا يمكن أن يكون فارغًا
         [MaxLength(100)] // 🔹 تحديد الحد الأقصى للطول
-        public string Name { get; set; } = string.Empty;
+        public required string Name { get; set; } = string.Empty;
 
         [Required]
         [EmailAddress] // 🔹 التأكد من أن التنسيق هو بريد إلكتروني

@@ -12,7 +12,7 @@ namespace E_Commers_Project.Domain.Models
         [Required]
         public string Name { get; set; } = string.Empty;
 
-        public string Description { get; set; } = string.Empty;
+        public string? Description { get; set; } = string.Empty;
 
         // Navigation Property (One-to-Many with Product)
         public virtual ICollection<Product> Product { get; set; } = new List<Product>();

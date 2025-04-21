@@ -2,6 +2,8 @@
 using E_Commers.Infrastructure.Repositories.Interfaces;
 using E_Commers_Project.Application.InterFaces;
 using E_Commers_Project.Application.Services;
+using E_Commers_Project.Infrastructure.Repositories;
+using E_Commers_Project.Infrastructure.Repositories.Interfaces;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
@@ -26,8 +28,6 @@ namespace E_Commers_Project
                 options.Cookie.IsEssential = true;
             });
 
-
-
             builder.Services.AddAuthorization();
 
             // ✅ إضافة الخدمات
@@ -39,7 +39,10 @@ namespace E_Commers_Project
 
             // ✅ إضافة Dependency Injection
             builder.Services.AddScoped<IUserRepository, UserRepository>();
-            builder.Services.AddScoped<IUserService , UserService>();
+            builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
+            builder.Services.AddScoped<IUserService, UserService>();
+            builder.Services.AddScoped<ICategoryService, CategoryService>();
+            builder.Services.AddScoped<IHomeScreenService, HomeScreenService>();
 
             // ✅ إضافة CORS (إذا كان مطلوبًا)
             builder.Services.AddCors(options =>
@@ -62,9 +65,6 @@ namespace E_Commers_Project
                 });
             });
 
-
-
-
             var app = builder.Build();
 
             // ✅ إعداد الـ Middleware
@@ -84,16 +84,14 @@ namespace E_Commers_Project
                 });
             }
 
-            app.UseSession();
             app.UseAuthorization();
             app.UseHttpsRedirection();
             app.UseStaticFiles();
             app.UseRouting();
+            app.UseSession();
 
             // ✅ تفعيل CORS
             app.UseCors("AllowAll");
-
-            app.UseAuthorization();
 
             // ✅ تفعيل الـ Routes
             app.MapControllerRoute(

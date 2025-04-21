@@ -17,7 +17,7 @@ namespace E_Commers.Infrastructure.data
         public DbSet<Order> Orders { get; set; }
         public DbSet<OrderDetails> OrderDetails { get; set; }
         public DbSet<Payments> Payments { get; set; }
-        public DbSet<Photo> Photos { get; set; }
+        public DbSet<UserPhoto> Photos { get; set; }
         public DbSet<Product> Products { get; set; }
         public DbSet<Rating> Ratings { get; set; }
         public DbSet<Reviews> Reviews { get; set; }

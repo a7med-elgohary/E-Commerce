@@ -265,12 +265,8 @@ C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\bin\Debug\net9.0\runt
 C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\obj\Debug\net9.0\scopedcss\bundle\E-Commers Project.styles.css
 C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\obj\Debug\net9.0\scopedcss\projectbundle\E-Commers Project.bundle.scp.css
-C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\obj\Debug\net9.0\compressed\2wz7j7uomt-5ipweew5fc.gz
-C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\obj\Debug\net9.0\compressed\4368g8a2z8-vs2a82a6bh.gz
 C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\obj\Debug\net9.0\compressed\gf0j1fibre-61n19gt1b8.gz
-C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\obj\Debug\net9.0\compressed\g50rbs0z92-v03fjvv62j.gz
 C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\obj\Debug\net9.0\compressed\obhcwau4zg-uuoox3o7dw.gz
-C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\obj\Debug\net9.0\compressed\hz9j0ea6nh-xtxxf3hu2r.gz
 C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\obj\Debug\net9.0\compressed\p61llrnqap-bqjiyaj88i.gz
 C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\obj\Debug\net9.0\compressed\7pyof4887o-c2jlpeoesf.gz
 C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\obj\Debug\net9.0\compressed\pq00ifngha-erw9l3u2r3.gz
@@ -341,11 +337,30 @@ C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\obj\Debug\net9.0\stat
 C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.E-Commers Project.props
 C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.E-Commers Project.props
 C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\obj\Debug\net9.0\staticwebassets.pack.json
-C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\obj\Debug\net9.0\E-Commer.4592169D.Up2Date
 C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\obj\Debug\net9.0\E-Commers Project.dll
 C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\obj\Debug\net9.0\refint\E-Commers Project.dll
 C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\obj\Debug\net9.0\E-Commers Project.pdb
 C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\obj\Debug\net9.0\E-Commers Project.genruntimeconfig.cache
 C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\obj\Debug\net9.0\ref\E-Commers Project.dll
+C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\obj\Debug\net9.0\compressed\3kj2oc5ii9-o2hmuadh23.gz
+C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\obj\Debug\net9.0\compressed\2wz7j7uomt-645ywy9l86.gz
+C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\obj\Debug\net9.0\compressed\g50rbs0z92-v03fjvv62j.gz
 C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\obj\Debug\net9.0\compressed\8rnqw88o44-lw4cr5ypp9.gz
+C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\obj\Debug\net9.0\compressed\z04cuioszw-x5c7hwcvyu.gz
+C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\obj\Debug\net9.0\compressed\5espjcgok6-xidlg61s0r.gz
+C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\obj\Debug\net9.0\compressed\hz9j0ea6nh-054dqfgrwn.gz
+C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\obj\Debug\net9.0\compressed\0tour6gc6e-w24g68caoo.gz
+C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\bin\Debug\net9.0\Microsoft.Graph.dll
+C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\bin\Debug\net9.0\Microsoft.Graph.Core.dll
+C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\bin\Debug\net9.0\Microsoft.IdentityModel.Validators.dll
+C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\bin\Debug\net9.0\Microsoft.Kiota.Abstractions.dll
+C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\bin\Debug\net9.0\Microsoft.Kiota.Authentication.Azure.dll
+C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\bin\Debug\net9.0\Microsoft.Kiota.Http.HttpClientLibrary.dll
+C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\bin\Debug\net9.0\Microsoft.Kiota.Serialization.Form.dll
+C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\bin\Debug\net9.0\Microsoft.Kiota.Serialization.Json.dll
+C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\bin\Debug\net9.0\Microsoft.Kiota.Serialization.Multipart.dll
+C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\bin\Debug\net9.0\Microsoft.Kiota.Serialization.Text.dll
+C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\bin\Debug\net9.0\Std.UriTemplate.dll
+C:\Users\USERR\Desktop\E-Commers Project\E-Commers Project\obj\Debug\net9.0\compressed\wa8cu0fib1-8yw62d4z5c.gz

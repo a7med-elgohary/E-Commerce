@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace E_Commers_Project.Domain.Models
 {
-    public class Photo
+    public class UserPhoto
     {
         [Key]
         public int Id { get; set; }

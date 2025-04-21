@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore;
 using System;
 using E_Commers_Project.Domain.Models;
 
-public class UserRepository : GenericRepository<User>, IUserRepository
+public class UserRepository : GenericRepository<User> , IUserRepository
 {
     public UserRepository(AppDbContext context) : base(context)
     {

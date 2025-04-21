@@ -5,8 +5,10 @@
     <meta name="viewport" content="width=device-width" />
     <title>@ViewBag.Title</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/AdminPanel.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/FooterStayle.css" asp-append-version="true" />
+    <style>
+
+    </style>
 </head>
 <body>
     <header>
@@ -30,65 +32,81 @@
             </div>
         </nav>
     </header>
-    <main role="main">
+    <main>
         @RenderBody()
     </main>
-    <footer class="bg-dark text-light pt-5 ">
-        <div class="Section text-center text-md-start">
-            <div class="row" style="margin-right:0px;">
-                <!-- Company Info -->
-                <div class="col-md-3 col-lg-3 col-xl-3 mx-auto mb-4">
-                    <h5 class="text-uppercase fw-bold">ShopName</h5>
-                    <p>Discover the best deals on our eCommerce platform. Quality products at the best prices.</p>
+    <footer>
+        <div id ="container">
+            <div class="big_row">
+                <img src="~/Imgs/logoecommers.jpg" alt="">
+                <div class="hotline">
+                    <i class="fa-solid fa-headset"></i>
+                    <div class="text">
+                        <h5>Hotline free 24hour's</h5>
+                        <h6>01080405240</h6>
+                    </div>
                 </div>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            </div>
 
-                <!-- Quick Links -->
-                <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
-                    <h5 class="text-uppercase fw-bold">Quick Links</h5>
-                    <ul class="list-unstyled">
-                        <li><a href="#" class="text-light text-decoration-none">Home</a></li>
-                        <li><a href="#" class="text-light text-decoration-none">Shop</a></li>
-                        <li><a href="#" class="text-light text-decoration-none">About Us</a></li>
-                        <li><a href="#" class="text-light text-decoration-none">Contact</a></li>
-                    </ul>
-                </div>
+            <div class="row">
+                <h4>FAQs & Help</h4>
 
-                <!-- Customer Service -->
-                <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
-                    <h5 class="text-uppercase fw-bold">Customer Service</h5>
-                    <ul class="list-unstyled">
-                        <li><a href="#" class="text-light text-decoration-none">FAQ</a></li>
-                        <li><a href="#" class="text-light text-decoration-none">Returns</a></li>
-                        <li><a href="#" class="text-light text-decoration-none">Shipping</a></li>
-                        <li><a href="#" class="text-light text-decoration-none">Privacy Policy</a></li>
-                    </ul>
-                </div>
-
-                <!-- Contact -->
-                <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-4">
-                    <h5 class="text-uppercase fw-bold">Contact</h5>
-                    <p><i class="fas fa-home me-2"></i> 123 Street, City, Country</p>
-                    <p><i class="fas fa-envelope me-2"></i> support@shopname.com</p>
-                    <p><i class="fas fa-phone me-2"></i> +1 234 567 890</p>
+                <div class="links">
+                    <a href="#">F.A.Q.’s</a>
+                    <a href="#">Ordering Tracking</a>
+                    <a href="#">Contacts</a>
+                    <a href="#">Events</a>
+                    <a href="#">Help Center</a>
                 </div>
             </div>
 
-            <!-- Social Media -->
-            <div class="text-center mt-4">
-                <a href="#" class="text-light me-3"><i class="fab fa-facebook fa-lg"></i></a>
-                <a href="#" class="text-light me-3"><i class="fab fa-twitter fa-lg"></i></a>
-                <a href="#" class="text-light me-3"><i class="fab fa-instagram fa-lg"></i></a>
-                <a href="#" class="text-light me-3"><i class="fab fa-linkedin fa-lg"></i></a>
+
+            <div class="row">
+                <h4>Shipping & Delivery</h4>
+
+                <div class="links">
+                    <a href="#">Delivery Information</a>
+                    <a href="#">Discount</a>
+                    <a href="#">Payment & Shipping</a>
+                    <a href="#">Estimated Delivery Time</a>
+                    <a href="#">Shipping Guide</a>
+                </div>
             </div>
 
-            <!-- Copyright -->
-            <div class="text-center mt-3">
-                <p class="mb-0">© 2024 ShopName. All rights reserved.</p>
+
+            <div class="row">
+                <h4>Information</h4>
+
+                <div class="links">
+                    <a href="#">Popular</a>
+                    <a href="#">Our Services</a>
+                    <a href="#">Your Account</a>
+                    <a href="#">Privacy Policy</a>
+                    <a href="#">Terms & Condition</a>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="bottom_footer">
+            <div class="section">
+                <p>Copyright &copy; <span>e commerse</span> all rights reserved</p>
+
+                <div class="payment_img">
+                    <img src="~/Imgs/payment-1.png" alt="">
+                    <img src="~/Imgs/payment-2.png" alt="">
+                    <img src="~/Imgs/payment-3.png" alt="">
+                    <img src="~/Imgs/payment-.png" alt="">
+                </div>
             </div>
         </div>
     </footer>
+
+
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+
 </body>
 </html>

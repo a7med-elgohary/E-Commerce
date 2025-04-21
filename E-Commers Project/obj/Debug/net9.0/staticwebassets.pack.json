@@ -5,8 +5,192 @@
       "PackagePath": "staticwebassets\\E-Commers Project.wmi20br7nf.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\banner\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\banner\\banner-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\banner\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\banner\\banner-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\banner\\banner-3.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\banner\\banner-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\banner\\banner-4.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\banner\\banner-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\banner\\banner-5.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\banner\\banner-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\banner\\banner-6.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\banner\\banner-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\banner\\banner-7.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\banner\\banner-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\banner\\banner-8.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\banner\\banner-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\banner\\banner-sm-1.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\banner\\banner-sm-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\banner\\banner-sm-2.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\banner\\banner-sm-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\banner\\banner-sm-3.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\banner\\banner-sm-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\features1.png",
+      "PackagePath": "staticwebassets\\Imgs\\features1.png"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\features2.png",
+      "PackagePath": "staticwebassets\\Imgs\\features2.png"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\features3.png",
+      "PackagePath": "staticwebassets\\Imgs\\features3.png"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\features4.png",
+      "PackagePath": "staticwebassets\\Imgs\\features4.png"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\features5.png",
+      "PackagePath": "staticwebassets\\Imgs\\features5.png"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\icon_email.png",
+      "PackagePath": "staticwebassets\\Imgs\\icon_email.png"
+    },
+    {
       "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\image.png",
       "PackagePath": "staticwebassets\\Imgs\\image.png"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\logo-black.png",
+      "PackagePath": "staticwebassets\\Imgs\\logo-black.png"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\logo-white.png",
+      "PackagePath": "staticwebassets\\Imgs\\logo-white.png"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\logoecommers.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\logoecommers.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\payment-1.png",
+      "PackagePath": "staticwebassets\\Imgs\\payment-1.png"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\payment-2.png",
+      "PackagePath": "staticwebassets\\Imgs\\payment-2.png"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\payment-3.png",
+      "PackagePath": "staticwebassets\\Imgs\\payment-3.png"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\payment-4.png",
+      "PackagePath": "staticwebassets\\Imgs\\payment-4.png"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\product\\product-1.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\product\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\product\\product-2.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\product\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\product\\product-3.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\product\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\product\\product-4.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\product\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\product\\product-5.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\product\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\product\\product-6.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\product\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\product\\product-7.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\product\\product-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\product\\product-8.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\product\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\product\\product-9.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\product\\product-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\product\\product1.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\product\\product1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\product\\product2.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\product\\product2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\product\\product3.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\product\\product3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\product\\product4.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\product\\product4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\product\\product5.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\product\\product5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\product\\product6.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\product\\product6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\product\\product7.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\product\\product7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\product\\product8.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\product\\product8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\slider-01.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\slider-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\slider-02.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\slider-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\slider-03.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\slider-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\css\\AdminPanelStyle.css",
+      "PackagePath": "staticwebassets\\css\\AdminPanelStyle.css"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\css\\FooterStayle.css",
+      "PackagePath": "staticwebassets\\css\\FooterStayle.css"
     },
     {
       "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\css\\loginStyle.css",
@@ -17,10 +201,6 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\css\\style.css",
-      "PackagePath": "staticwebassets\\css\\style.css"
-    },
-    {
       "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
@@ -29,12 +209,24 @@
       "PackagePath": "staticwebassets\\js\\Login.js"
     },
     {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\js\\items.json",
+      "PackagePath": "staticwebassets\\js\\items.json"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\js\\items_home.js",
+      "PackagePath": "staticwebassets\\js\\items_home.js"
+    },
+    {
       "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\js\\main.js",
       "PackagePath": "staticwebassets\\js\\main.js"
     },
     {
       "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\js\\swiper.js",
+      "PackagePath": "staticwebassets\\js\\swiper.js"
     },
     {
       "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\bootstrap\\LICENSE",

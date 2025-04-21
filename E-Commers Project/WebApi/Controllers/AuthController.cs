@@ -19,6 +19,7 @@ namespace E_Commers_Project.WebApi.Controllers
         {
             _configuration = configuration;
             _userService = userService;
+            
         }
 
         //[HttpGet]
@@ -55,15 +56,16 @@ namespace E_Commers_Project.WebApi.Controllers
             }
 
             var user = await _userService.GetUserByEmailAsync(model.Email);
-
             // ✅ حفظ بيانات المستخدم في الجلسة
             HttpContext.Session.SetString("UserEmail", user.Email);
             HttpContext.Session.SetString("UserName", user.Name);
             HttpContext.Session.SetInt32("UserId", user.Id);
             HttpContext.Session.SetInt32("IsAdmin", user.IsAdmin ? 1 : 0);
-
+            
+            string? name= HttpContext.Session.GetString("UserName");
+            ViewData["UserName"] = name;
             // ✅ توجيه المستخدم حسب دوره
-            if (user.IsAdmin)
+            if (user.IsAdmin) 
             {
                 return RedirectToAction("Home", "AdminPanel"); // لو أدمن يذهب للوحة التحكم
             }
