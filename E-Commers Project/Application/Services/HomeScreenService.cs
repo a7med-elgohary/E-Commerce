@@ -22,5 +22,8 @@ namespace E_Commers_Project.Application.Services
             return new HomeScreen(categories);
 
         }
+
+       
+
     }
 }

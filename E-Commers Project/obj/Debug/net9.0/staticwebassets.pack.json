@@ -1,471 +1,471 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\E-Commers Project.bundle.scp.css",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\E-Commers Project.bundle.scp.css",
       "PackagePath": "staticwebassets\\E-Commers Project.wmi20br7nf.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\banner\\banner-1.jpg",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\banner\\banner-1.jpg",
       "PackagePath": "staticwebassets\\Imgs\\banner\\banner-1.jpg"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\banner\\banner-2.jpg",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\banner\\banner-2.jpg",
       "PackagePath": "staticwebassets\\Imgs\\banner\\banner-2.jpg"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\banner\\banner-3.jpg",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\banner\\banner-3.jpg",
       "PackagePath": "staticwebassets\\Imgs\\banner\\banner-3.jpg"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\banner\\banner-4.jpg",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\banner\\banner-4.jpg",
       "PackagePath": "staticwebassets\\Imgs\\banner\\banner-4.jpg"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\banner\\banner-5.jpg",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\banner\\banner-5.jpg",
       "PackagePath": "staticwebassets\\Imgs\\banner\\banner-5.jpg"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\banner\\banner-6.jpg",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\banner\\banner-6.jpg",
       "PackagePath": "staticwebassets\\Imgs\\banner\\banner-6.jpg"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\banner\\banner-7.jpg",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\banner\\banner-7.jpg",
       "PackagePath": "staticwebassets\\Imgs\\banner\\banner-7.jpg"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\banner\\banner-8.jpg",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\banner\\banner-8.jpg",
       "PackagePath": "staticwebassets\\Imgs\\banner\\banner-8.jpg"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\banner\\banner-sm-1.jpg",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\banner\\banner-sm-1.jpg",
       "PackagePath": "staticwebassets\\Imgs\\banner\\banner-sm-1.jpg"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\banner\\banner-sm-2.jpg",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\banner\\banner-sm-2.jpg",
       "PackagePath": "staticwebassets\\Imgs\\banner\\banner-sm-2.jpg"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\banner\\banner-sm-3.jpg",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\banner\\banner-sm-3.jpg",
       "PackagePath": "staticwebassets\\Imgs\\banner\\banner-sm-3.jpg"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\features1.png",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\features1.png",
       "PackagePath": "staticwebassets\\Imgs\\features1.png"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\features2.png",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\features2.png",
       "PackagePath": "staticwebassets\\Imgs\\features2.png"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\features3.png",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\features3.png",
       "PackagePath": "staticwebassets\\Imgs\\features3.png"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\features4.png",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\features4.png",
       "PackagePath": "staticwebassets\\Imgs\\features4.png"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\features5.png",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\features5.png",
       "PackagePath": "staticwebassets\\Imgs\\features5.png"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\icon_email.png",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\icon_email.png",
       "PackagePath": "staticwebassets\\Imgs\\icon_email.png"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\image.png",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\image.png",
       "PackagePath": "staticwebassets\\Imgs\\image.png"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\logo-black.png",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\logo-black.png",
       "PackagePath": "staticwebassets\\Imgs\\logo-black.png"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\logo-white.png",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\logo-white.png",
       "PackagePath": "staticwebassets\\Imgs\\logo-white.png"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\logoecommers.jpg",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\logoecommers.jpg",
       "PackagePath": "staticwebassets\\Imgs\\logoecommers.jpg"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\payment-1.png",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\payment-1.png",
       "PackagePath": "staticwebassets\\Imgs\\payment-1.png"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\payment-2.png",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\payment-2.png",
       "PackagePath": "staticwebassets\\Imgs\\payment-2.png"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\payment-3.png",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\payment-3.png",
       "PackagePath": "staticwebassets\\Imgs\\payment-3.png"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\payment-4.png",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\payment-4.png",
       "PackagePath": "staticwebassets\\Imgs\\payment-4.png"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\product\\product-1.jpg",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\product\\product-1.jpg",
       "PackagePath": "staticwebassets\\Imgs\\product\\product-1.jpg"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\product\\product-2.jpg",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\product\\product-2.jpg",
       "PackagePath": "staticwebassets\\Imgs\\product\\product-2.jpg"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\product\\product-3.jpg",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\product\\product-3.jpg",
       "PackagePath": "staticwebassets\\Imgs\\product\\product-3.jpg"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\product\\product-4.jpg",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\product\\product-4.jpg",
       "PackagePath": "staticwebassets\\Imgs\\product\\product-4.jpg"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\product\\product-5.jpg",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\product\\product-5.jpg",
       "PackagePath": "staticwebassets\\Imgs\\product\\product-5.jpg"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\product\\product-6.jpg",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\product\\product-6.jpg",
       "PackagePath": "staticwebassets\\Imgs\\product\\product-6.jpg"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\product\\product-7.jpg",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\product\\product-7.jpg",
       "PackagePath": "staticwebassets\\Imgs\\product\\product-7.jpg"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\product\\product-8.jpg",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\product\\product-8.jpg",
       "PackagePath": "staticwebassets\\Imgs\\product\\product-8.jpg"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\product\\product-9.jpg",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\product\\product-9.jpg",
       "PackagePath": "staticwebassets\\Imgs\\product\\product-9.jpg"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\product\\product1.jpg",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\product\\product1.jpg",
       "PackagePath": "staticwebassets\\Imgs\\product\\product1.jpg"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\product\\product2.jpg",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\product\\product2.jpg",
       "PackagePath": "staticwebassets\\Imgs\\product\\product2.jpg"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\product\\product3.jpg",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\product\\product3.jpg",
       "PackagePath": "staticwebassets\\Imgs\\product\\product3.jpg"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\product\\product4.jpg",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\product\\product4.jpg",
       "PackagePath": "staticwebassets\\Imgs\\product\\product4.jpg"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\product\\product5.jpg",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\product\\product5.jpg",
       "PackagePath": "staticwebassets\\Imgs\\product\\product5.jpg"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\product\\product6.jpg",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\product\\product6.jpg",
       "PackagePath": "staticwebassets\\Imgs\\product\\product6.jpg"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\product\\product7.jpg",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\product\\product7.jpg",
       "PackagePath": "staticwebassets\\Imgs\\product\\product7.jpg"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\product\\product8.jpg",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\product\\product8.jpg",
       "PackagePath": "staticwebassets\\Imgs\\product\\product8.jpg"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\slider-01.jpg",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\slider-01.jpg",
       "PackagePath": "staticwebassets\\Imgs\\slider-01.jpg"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\slider-02.jpg",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\slider-02.jpg",
       "PackagePath": "staticwebassets\\Imgs\\slider-02.jpg"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\Imgs\\slider-03.jpg",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\slider-03.jpg",
       "PackagePath": "staticwebassets\\Imgs\\slider-03.jpg"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\css\\AdminPanelStyle.css",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\css\\AdminPanelStyle.css",
       "PackagePath": "staticwebassets\\css\\AdminPanelStyle.css"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\css\\FooterStayle.css",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\css\\FooterStayle.css",
       "PackagePath": "staticwebassets\\css\\FooterStayle.css"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\css\\loginStyle.css",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\css\\loginStyle.css",
       "PackagePath": "staticwebassets\\css\\loginStyle.css"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\js\\Login.js",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\js\\Login.js",
       "PackagePath": "staticwebassets\\js\\Login.js"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\js\\items.json",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\js\\items.json",
       "PackagePath": "staticwebassets\\js\\items.json"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\js\\items_home.js",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\js\\items_home.js",
       "PackagePath": "staticwebassets\\js\\items_home.js"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\js\\main.js",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\js\\main.js",
       "PackagePath": "staticwebassets\\js\\main.js"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\js\\swiper.js",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\js\\swiper.js",
       "PackagePath": "staticwebassets\\js\\swiper.js"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commers Project\\E-Commers Project\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
     },
     {

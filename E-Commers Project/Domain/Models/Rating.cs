@@ -19,7 +19,7 @@ namespace E_Commers_Project.Domain.Models
         public User? User { get; set; }
         public Product? Product { get; set; }
 
-
+       
 
     }
 }

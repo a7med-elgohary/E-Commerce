@@ -26,7 +26,7 @@ namespace E_Commers_Project.Domain.Models
         public Category? Category { get; set; }
         public Sale? Sale { get; set; }
 
-        public ICollection<ProductPhoto>? photos { get; set; } = new List<ProductPhoto>();
+        public virtual ICollection<ProductPhoto>? Photos { get; set; } = new List<ProductPhoto>();
 
     }
 }

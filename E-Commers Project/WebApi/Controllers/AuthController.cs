@@ -22,22 +22,10 @@ namespace E_Commers_Project.WebApi.Controllers
             
         }
 
-        //[HttpGet]
-        //public IActionResult TestConfig()
-        //{
-        //    var key = _configuration["Jwt:Key"]; // ✅ قراءة المفتاح السري من appsettings.json
-        //    var issuer = _configuration["Jwt:Issuer"];
-
-        //    return Ok($"Key: {key}, Issuer: {issuer}");
-        //}
-    
-
         public IActionResult AuthScreen()
         {
             return View();
         }
-
-
 
         [HttpPost]
         public async Task<IActionResult> Login(LoginModel model)
@@ -56,7 +44,7 @@ namespace E_Commers_Project.WebApi.Controllers
             }
 
             var user = await _userService.GetUserByEmailAsync(model.Email);
-            // ✅ حفظ بيانات المستخدم في الجلسة
+            //  حفظ بيانات المستخدم في الجلسة
             HttpContext.Session.SetString("UserEmail", user.Email);
             HttpContext.Session.SetString("UserName", user.Name);
             HttpContext.Session.SetInt32("UserId", user.Id);
@@ -64,17 +52,15 @@ namespace E_Commers_Project.WebApi.Controllers
             
             string? name= HttpContext.Session.GetString("UserName");
             ViewData["UserName"] = name;
-            // ✅ توجيه المستخدم حسب دوره
             if (user.IsAdmin) 
             {
-                return RedirectToAction("Home", "AdminPanel"); // لو أدمن يذهب للوحة التحكم
+                return RedirectToAction("Home", "AdminPanel");
             }
             else
             {
-                return RedirectToAction("Index", "Home"); // لو مستخدم عادي يذهب للصفحة العادية
+                return RedirectToAction("Index", "Home"); 
             }
         }
-
         [HttpPost]
         public async Task<IActionResult> SignUp(LoginModel model)
         {
@@ -116,8 +102,6 @@ namespace E_Commers_Project.WebApi.Controllers
            
             return RedirectToAction("Index","Home",model);
         }
-
-
 
         private string GenerateJwtToken(User user)
         {

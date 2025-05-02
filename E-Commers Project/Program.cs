@@ -1,4 +1,4 @@
-﻿using E_Commers.Infrastructure.data;
+using E_Commers.Infrastructure.data;
 using E_Commers.Infrastructure.Repositories.Interfaces;
 using E_Commers_Project.Application.InterFaces;
 using E_Commers_Project.Application.Services;
@@ -30,8 +30,14 @@ namespace E_Commers_Project
 
             builder.Services.AddAuthorization();
 
-            // ✅ إضافة الخدمات
-            builder.Services.AddControllersWithViews();
+            // ✅ إضافة إعدادات JsonSerializer
+            builder.Services.AddControllersWithViews()
+             .AddJsonOptions(options =>
+             {
+                 options.JsonSerializerOptions.ReferenceHandler = System.Text.Json.Serialization.ReferenceHandler.IgnoreCycles;
+                 options.JsonSerializerOptions.WriteIndented = true; // لو عايز JSON يكون منسق
+             });
+
 
             // ✅ إضافة DbContext وربطه بـ SQL Server
             builder.Services.AddDbContext<AppDbContext>(options =>
@@ -43,6 +49,8 @@ namespace E_Commers_Project
             builder.Services.AddScoped<IUserService, UserService>();
             builder.Services.AddScoped<ICategoryService, CategoryService>();
             builder.Services.AddScoped<IHomeScreenService, HomeScreenService>();
+            builder.Services.AddScoped<IProuductRepository , ProuductRepository>();
+            builder.Services.AddScoped<IProuductService , ProuductService>();
 
             // ✅ إضافة CORS (إذا كان مطلوبًا)
             builder.Services.AddCors(options =>

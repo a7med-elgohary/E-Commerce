@@ -21,7 +21,7 @@
 
     <header>
         <div class="container top-nav">
-            <a href="#" class="logo"><img src="~/Imgs/logoecommers.jpg" alt=""></a>
+            <a href="index.html" class="logo"><img src="img/logoecommers.jpg" alt=""></a>
             <form action="" class="search">
                 <input type="search" placeholder="search here">
                 <button type="submit"><i class="fas fa-search"></i></button>
@@ -44,13 +44,13 @@
             <div class="links container">
                 <ul>
                     <li class="active"><a href="#">home</a></li>
-                    <li><a href="#">all products</a></li>
-                    <li><a href="#">about us</a></li>
-                    <li><a href="#">contact</a></li>
+                    <li><a href="all_products.html">all products</a></li>
+                    <li><a href="#footer">about us</a></li>
+                    <li><a href="#footer">contact</a></li>
                 </ul>
                 <div class="loging_signup">
-                    <a  asp-action="AuthScreen" asp-controller="Auth">login <i class="fa-solid fa-right-to-bracket"></i></a>
-                    <!-- <a href="/login/index.html" class="signup">signup <i class="fa-solid fa-user-plus"></i></a>  -->
+                    <a class="login" asp-controller="Auth" asp-action="AuthScreen">login <i class="fa-solid fa-right-to-bracket"></i></a>
+                    <!-- <a href="/login/index.html" class="signup">signup <i class="fa-solid fa-user-plus"></i></a>                     -->
                 </div>
 
             </div>

@@ -19,16 +19,16 @@ namespace E_Commers_Project.Domain.Models
             IsAdmin = isAdmin;
         }
 
-        [Key] // 🔹 تحديد أن Id هو المفتاح الأساسي
-        [DatabaseGenerated(DatabaseGeneratedOption.Identity)] // 🔹 جعله Auto-Increment
+        [Key] 
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
 
-        [Required] // 🔹 لا يمكن أن يكون فارغًا
-        [MaxLength(100)] // 🔹 تحديد الحد الأقصى للطول
+        [Required] 
+        [MaxLength(100)] 
         public required string Name { get; set; } = string.Empty;
 
         [Required]
-        [EmailAddress] // 🔹 التأكد من أن التنسيق هو بريد إلكتروني
+        [EmailAddress] 
         [MaxLength(150)]
         public string Email { get; set; } = string.Empty;
 
@@ -36,15 +36,15 @@ namespace E_Commers_Project.Domain.Models
         [MinLength(6, ErrorMessage = "Password must be at least 6 characters long.")]
         public string Password { get; set; } = string.Empty;
 
-        [Phone] // 🔹 التأكد من أن الإدخال رقم هاتف صحيح
+        [Phone] 
         [MaxLength(20)]
         public string? PhoneNumber { get; set; }
 
         [MaxLength(250)]
         public string? Address { get; set; }
 
-        public bool IsActive { get; set; } = false; // 🔹 افتراضيًا غير نشط
+        public bool IsActive { get; set; } = false; 
 
-        public bool IsAdmin { get; set; } = false; // 🔹 افتراضيًا ليس أدمن
+        public bool IsAdmin { get; set; } = false; 
     }
 }
