@@ -5,6 +5,7 @@ using E_Commers_Project.Application.Services;
 using E_Commers_Project.Domain.Models;
 using E_Commers_Project.Domain.ViewModels;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Graph.Education.Classes.Item.Assignments.Item.Submissions.Item.Return;
 
 namespace E_Commers_Project.WebApi.Controllers
 {
@@ -26,7 +27,10 @@ namespace E_Commers_Project.WebApi.Controllers
             var viewmodel = await _homeScreen.GetHomeScreenDataAsync();
             return View(viewmodel);
         }
-
+        public IActionResult ToAllProducts()
+        {
+            return View("AllProducts");
+        }
 
         public IActionResult Privacy()
         {

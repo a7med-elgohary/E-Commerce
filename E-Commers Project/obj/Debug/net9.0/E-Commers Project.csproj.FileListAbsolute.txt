@@ -730,5 +730,6 @@ C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\obj\Debug\net9.0\staticwebas
 C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\obj\Debug\net9.0\compressed\obhcwau4zg-27c4k92jsb.gz
 C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\bin\Debug\net9.0\AutoMapper.dll
 C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\obj\Debug\net9.0\compressed\hz9j0ea6nh-ahxydq001r.gz
-C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\obj\Debug\net9.0\compressed\wa8cu0fib1-54zf592j3t.gz
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\obj\Debug\net9.0\compressed\hz9j0ea6nh-zo9gek0nfw.gz
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\obj\Debug\net9.0\compressed\mgw66xdn6x-1prkdnza4c.gz
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\obj\Debug\net9.0\compressed\wa8cu0fib1-jbou8l25xw.gz

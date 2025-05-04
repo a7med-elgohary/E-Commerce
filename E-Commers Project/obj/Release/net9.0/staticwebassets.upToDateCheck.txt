@@ -1,0 +1,186 @@
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\js\items.json
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\css\site.css
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\js\swiper.js
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\css\AdminPanelStyle.css
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\jquery\dist\jquery.min.js
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\css\loginStyle.css
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\jquery-validation\LICENSE.md
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\jquery\dist\jquery.slim.js
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\jquery\dist\jquery.slim.min.js
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\jquery\dist\jquery.slim.min.map
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\js\Login.js
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\favicon.ico
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\js\site.js
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\jquery\dist\jquery.js
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\js\main.js
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\jquery-validation\dist\additional-methods.js
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\jquery\dist\jquery.min.map
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\js\items_home.js
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\css\FooterStayle.css
+wwwroot\css\AdminPanelStyle.css
+wwwroot\css\FooterStayle.css
+wwwroot\css\loginStyle.css
+wwwroot\css\site.css
+wwwroot\favicon.ico
+wwwroot\Imgs\banner\banner-1.jpg
+wwwroot\Imgs\banner\banner-2.jpg
+wwwroot\Imgs\banner\banner-3.jpg
+wwwroot\Imgs\banner\banner-4.jpg
+wwwroot\Imgs\banner\banner-5.jpg
+wwwroot\Imgs\banner\banner-6.jpg
+wwwroot\Imgs\banner\banner-7.jpg
+wwwroot\Imgs\banner\banner-8.jpg
+wwwroot\Imgs\banner\banner-sm-1.jpg
+wwwroot\Imgs\banner\banner-sm-2.jpg
+wwwroot\Imgs\banner\banner-sm-3.jpg
+wwwroot\Imgs\features1.png
+wwwroot\Imgs\features2.png
+wwwroot\Imgs\features3.png
+wwwroot\Imgs\features4.png
+wwwroot\Imgs\features5.png
+wwwroot\Imgs\icon_email.png
+wwwroot\Imgs\image.png
+wwwroot\Imgs\logo-black.png
+wwwroot\Imgs\logoecommers.jpg
+wwwroot\Imgs\logo-white.png
+wwwroot\Imgs\payment-1.png
+wwwroot\Imgs\payment-2.png
+wwwroot\Imgs\payment-3.png
+wwwroot\Imgs\payment-4.png
+wwwroot\Imgs\product\product1.jpg
+wwwroot\Imgs\product\product-1.jpg
+wwwroot\Imgs\product\product2.jpg
+wwwroot\Imgs\product\product-2.jpg
+wwwroot\Imgs\product\product3.jpg
+wwwroot\Imgs\product\product-3.jpg
+wwwroot\Imgs\product\product4.jpg
+wwwroot\Imgs\product\product-4.jpg
+wwwroot\Imgs\product\product5.jpg
+wwwroot\Imgs\product\product-5.jpg
+wwwroot\Imgs\product\product6.jpg
+wwwroot\Imgs\product\product-6.jpg
+wwwroot\Imgs\product\product7.jpg
+wwwroot\Imgs\product\product-7.jpg
+wwwroot\Imgs\product\product8.jpg
+wwwroot\Imgs\product\product-8.jpg
+wwwroot\Imgs\product\product-9.jpg
+wwwroot\Imgs\slider-01.jpg
+wwwroot\Imgs\slider-02.jpg
+wwwroot\Imgs\slider-03.jpg
+wwwroot\js\items.json
+wwwroot\js\items_home.js
+wwwroot\js\Login.js
+wwwroot\js\main.js
+wwwroot\js\site.js
+wwwroot\js\swiper.js
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\dist\jquery.slim.js
+wwwroot\lib\jquery\dist\jquery.slim.min.js
+wwwroot\lib\jquery\dist\jquery.slim.min.map
+wwwroot\lib\jquery\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt

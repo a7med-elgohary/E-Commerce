@@ -1,4 +1,4 @@
-﻿
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -21,7 +21,7 @@
 
     <header>
         <div class="container top-nav">
-            <a href="index.html" class="logo"><img src="img/logoecommers.jpg" alt=""></a>
+            <a href="index.html" class="logo"><img src="~/imgs/logoecommers.jpg" alt=""></a>
             <form action="" class="search">
                 <input type="search" placeholder="search here">
                 <button type="submit"><i class="fas fa-search"></i></button>
@@ -42,15 +42,17 @@
         </div>
         <nav>
             <div class="links container">
-                <ul>
-                    <li class="active"><a href="#">home</a></li>
-                    <li><a href="all_products.html">all products</a></li>
-                    <li><a href="#footer">about us</a></li>
-                    <li><a href="#footer">contact</a></li>
+                <i onclick="open_menu()" class="fa-solid fa-bars btn_open_menu"></i>
+                <ul id="menu">
+                    <span onclick="close_menu()" class="bg-overlay"></span>
+                    <i onclick="close_menu()" class="fa-regular fa-circle-xmark btn_close_menu"></i>
+                    <img class="logo_menu" src="~/imgs/logoecommers.jpg" alt="">
+
+                   @RenderSection("Nav",true)
                 </ul>
                 <div class="loging_signup">
-                    <a class="login" asp-controller="Auth" asp-action="AuthScreen">login <i class="fa-solid fa-right-to-bracket"></i></a>
-                    <!-- <a href="/login/index.html" class="signup">signup <i class="fa-solid fa-user-plus"></i></a>                     -->
+                    <a asp-action="AuthScreen" asp-controller="Auth">login <i class="fa-solid fa-right-to-bracket"></i></a>
+                    <!-- <a href="/login/index.html" class="signup">signup <i class="fa-solid fa-user-plus"></i></a>   -->
                 </div>
 
             </div>
@@ -139,9 +141,8 @@
     <!--mainjs-->
     <script src="~/js/site.js"></script>
     <script src="~/js/swiper.js"></script>
+    <script src="~/js/all_products.js"></script>
     @await RenderSectionAsync("Scripts", required: false)
 
 </body>
 </html>
-
-   

@@ -18,7 +18,14 @@ document.addEventListener('DOMContentLoaded', function () {
                 if (container) container.innerHTML = '';
             });
 
-            // Process each product
+            // Categorize products
+            const flashSaleProducts = [];
+            const categoryProducts = {
+                1: [], // Category 1 products
+                2: []  // Category 2 products
+            };
+
+            // Process each product and categorize them
             data.forEach(product => {
                 // Get product image (using first photo or default)
                 const productImg = product.photos?.[0]?.url || 'default.jpg';
@@ -52,21 +59,31 @@ document.addEventListener('DOMContentLoaded', function () {
                     </div>
                 `;
 
-                // Add to appropriate containers
-                if (product.saleId && swiper_items_sale) {
-                    swiper_items_sale.innerHTML += productHtml;
-                }
-
-                if (other_product_swiper) {
-                    other_product_swiper.innerHTML += productHtml;
-                }
-
-                if (other_product_swiper2) {
-                    other_product_swiper2.innerHTML += productHtml;
+                // Add to appropriate section
+                if (product.saleId) {
+                    flashSaleProducts.push(productHtml);
+                } else {
+                    // Add to category based on categoryId
+                    if (categoryProducts[product.categoryId]) {
+                        categoryProducts[product.categoryId].push(productHtml);
+                    }
                 }
             });
 
-            // Initialize event listeners
+            // Add products to their respective sections
+            if (swiper_items_sale) {
+                swiper_items_sale.innerHTML = flashSaleProducts.join('');
+            }
+
+            if (other_product_swiper) {
+                other_product_swiper.innerHTML = categoryProducts[1]?.join('') || '';
+            }
+
+            if (other_product_swiper2) {
+                other_product_swiper2.innerHTML = categoryProducts[2]?.join('') || '';
+            }
+
+            // Set up event listeners
             setupProductEventListeners();
         })
         .catch(error => {

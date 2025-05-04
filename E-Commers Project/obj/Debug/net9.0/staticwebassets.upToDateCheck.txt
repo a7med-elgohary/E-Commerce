@@ -43,6 +43,7 @@ C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\j
 C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\jquery-validation\dist\jquery.validate.js
 C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
 C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\js\all_prouducts.js
 C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
 C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
 C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
@@ -118,6 +119,7 @@ wwwroot\Imgs\product\product-9.jpg
 wwwroot\Imgs\slider-01.jpg
 wwwroot\Imgs\slider-02.jpg
 wwwroot\Imgs\slider-03.jpg
+wwwroot\js\all_prouducts.js
 wwwroot\js\items.json
 wwwroot\js\items_home.js
 wwwroot\js\Login.js

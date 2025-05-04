@@ -8,6 +8,21 @@ var price_cart_Head = document.querySelector('.price_cart_Head');
 var all_products_json = [];
 var product_cart = [];
 
+// open & close menu
+
+var menu = document.querySelector('#menu');
+
+function open_menu() {
+    menu.classList.add("active")
+}
+function close_menu() {
+    menu.classList.remove("active")
+}
+
+
+
+
+
 // وظائف عربة التسوق
 function openCart() {
     if (cart) cart.classList.add('active');

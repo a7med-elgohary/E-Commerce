@@ -209,6 +209,10 @@
       "PackagePath": "staticwebassets\\js\\Login.js"
     },
     {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\js\\all_prouducts.js",
+      "PackagePath": "staticwebassets\\js\\all_prouducts.js"
+    },
+    {
       "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\js\\items.json",
       "PackagePath": "staticwebassets\\js\\items.json"
     },
