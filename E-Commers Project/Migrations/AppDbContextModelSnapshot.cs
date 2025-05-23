@@ -38,7 +38,8 @@ namespace E_Commers_Project.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("UserId");
+                    b.HasIndex("UserId")
+                        .IsUnique();
 
                     b.ToTable("Carts");
                 });
@@ -231,6 +232,9 @@ namespace E_Commers_Project.Migrations
                     b.Property<int>("Stock")
                         .HasColumnType("int");
 
+                    b.Property<decimal>("oldPrice")
+                        .HasColumnType("decimal(18,2)");
+
                     b.HasKey("Id");
 
                     b.HasIndex("CategoryId");
@@ -355,7 +359,29 @@ namespace E_Commers_Project.Migrations
                     b.ToTable("Sales");
                 });
 
-            modelBuilder.Entity("E_Commers_Project.Domain.Models.User", b =>
+            modelBuilder.Entity("E_Commers_Project.Domain.Models.UserPhoto", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Url")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("UserId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("UserId");
+
+                    b.ToTable("Photos");
+                });
+
+            modelBuilder.Entity("User", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -393,36 +419,17 @@ namespace E_Commers_Project.Migrations
 
                     b.HasKey("Id");
 
+                    b.HasIndex("Email")
+                        .IsUnique();
+
                     b.ToTable("Users");
-                });
-
-            modelBuilder.Entity("E_Commers_Project.Domain.Models.UserPhoto", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
-
-                    b.Property<string>("Url")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<int>("UserId")
-                        .HasColumnType("int");
-
-                    b.HasKey("Id");
-
-                    b.HasIndex("UserId");
-
-                    b.ToTable("Photos");
                 });
 
             modelBuilder.Entity("E_Commers_Project.Domain.Models.Cart", b =>
                 {
-                    b.HasOne("E_Commers_Project.Domain.Models.User", "User")
-                        .WithMany()
-                        .HasForeignKey("UserId")
+                    b.HasOne("User", "User")
+                        .WithOne("Cart")
+                        .HasForeignKey("E_Commers_Project.Domain.Models.Cart", "UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
@@ -432,7 +439,7 @@ namespace E_Commers_Project.Migrations
             modelBuilder.Entity("E_Commers_Project.Domain.Models.CartItem", b =>
                 {
                     b.HasOne("E_Commers_Project.Domain.Models.Cart", "Cart")
-                        .WithMany()
+                        .WithMany("CartItems")
                         .HasForeignKey("CartId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -454,7 +461,7 @@ namespace E_Commers_Project.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("E_Commers_Project.Domain.Models.User", "User")
+                    b.HasOne("User", "User")
                         .WithMany()
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
@@ -467,7 +474,7 @@ namespace E_Commers_Project.Migrations
 
             modelBuilder.Entity("E_Commers_Project.Domain.Models.Order", b =>
                 {
-                    b.HasOne("E_Commers_Project.Domain.Models.User", "User")
+                    b.HasOne("User", "User")
                         .WithMany()
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
@@ -526,7 +533,7 @@ namespace E_Commers_Project.Migrations
             modelBuilder.Entity("E_Commers_Project.Domain.Models.ProductPhoto", b =>
                 {
                     b.HasOne("E_Commers_Project.Domain.Models.Product", "product")
-                        .WithMany("photos")
+                        .WithMany("Photos")
                         .HasForeignKey("ProductId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -542,7 +549,7 @@ namespace E_Commers_Project.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("E_Commers_Project.Domain.Models.User", "User")
+                    b.HasOne("User", "User")
                         .WithMany()
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
@@ -561,7 +568,7 @@ namespace E_Commers_Project.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("E_Commers_Project.Domain.Models.User", "User")
+                    b.HasOne("User", "User")
                         .WithMany()
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
@@ -580,7 +587,7 @@ namespace E_Commers_Project.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("E_Commers_Project.Domain.Models.User", "User")
+                    b.HasOne("User", "User")
                         .WithMany()
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
@@ -593,13 +600,18 @@ namespace E_Commers_Project.Migrations
 
             modelBuilder.Entity("E_Commers_Project.Domain.Models.UserPhoto", b =>
                 {
-                    b.HasOne("E_Commers_Project.Domain.Models.User", "User")
+                    b.HasOne("User", "User")
                         .WithMany()
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.Navigation("User");
+                });
+
+            modelBuilder.Entity("E_Commers_Project.Domain.Models.Cart", b =>
+                {
+                    b.Navigation("CartItems");
                 });
 
             modelBuilder.Entity("E_Commers_Project.Domain.Models.Category", b =>
@@ -609,7 +621,13 @@ namespace E_Commers_Project.Migrations
 
             modelBuilder.Entity("E_Commers_Project.Domain.Models.Product", b =>
                 {
-                    b.Navigation("photos");
+                    b.Navigation("Photos");
+                });
+
+            modelBuilder.Entity("User", b =>
+                {
+                    b.Navigation("Cart")
+                        .IsRequired();
                 });
 #pragma warning restore 612, 618
         }

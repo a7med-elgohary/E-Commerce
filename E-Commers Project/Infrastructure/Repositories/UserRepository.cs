@@ -14,8 +14,7 @@ public class UserRepository : GenericRepository<User> , IUserRepository
 
     public async Task<bool> IsFounded(LoginModel model)
     {
-        var user = await _dbSet.Where(x=> EF.Functions.Collate(x.Email ,  "Latin1_General_CS_AS") == model.Email && 
-        EF.Functions.Collate (x.Password , "Latin1_General_CS_AS") ==model.Password).FirstOrDefaultAsync();
+        var user = await _dbSet.FirstOrDefaultAsync (x=> x.Email == model.Email);
 
         if (user != null)
         {

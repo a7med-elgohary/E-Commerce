@@ -1,68 +1,105 @@
-﻿@{
+
+@{
     ViewData["Title"] = "ALL Prouduct Page";
     Layout = "_Layout";
 }
 
-@section Nav {
-    <li ><a asp-controller="Home" asp-action="index">home</a></li>
-    <li class="active"><a asp-controller="Home" asp-action="ToAllProducts">all products</a></li>
-    <li><a href="">about us</a></li>
-    <li><a href="">contact</a></li>
-}
+@* <script>
+    // إعداد مستمعي الأحداث للمنتجات
+    function setupProductEventListeners() {
+        document.addEventListener('click', function (e) {
+            // إضافة المنتج إلى السلة
+            if (e.target.classList.contains('cart-icon')) {
+                const productElement = e.target.closest('.product');
+                const productId = parseInt(productElement?.dataset?.productId);
 
-<div class="cart">
-    <div class="top_cart">
-        <h3>My cart <span class="count_item_cart">(0itme in cart)</span></h3>
-        <span onclick=" closeCart() " class="close_cart"><i class="fa-regular fa-circle-xmark"></i></span>
-    </div>
-    <div class="items_in_cart">
-    </div>
+                if (productId) {
+                    // إضافة المنتج إلى قاعدة البيانات
+                    fetch(`/api/Cart/AddProductToCart/${productId}`, {
+                        method: 'POST'
+                    })
+                    .then(response => {
+                        if (response.ok) {
+                            // تحديث الكارت في الواجهة
+                            loadCart();
+                        } else {
+                            alert('Error adding to cart.');
+                        }
+                    })
+                    .catch(() => alert('Network error'));
+                }
+            }
 
-    <div class="bottom_Cart">
-        <div class="total">
-            <p>Cart subtotal</p>
-            <p class="price_cart_total">$0</p>
+            // قائمة الأمنيات
+            if (e.target.classList.contains('wishlist-icon')) {
+                e.target.classList.toggle('active');س
+                // إضافة منطق قائمة الأمنيات هنا
+            }
+
+            // مشاركة المنتج
+            if (e.target.classList.contains('share-icon')) {
+                // إضافة منطق المشاركة هنا
+            }
+        });
+    }
+
+    // تحميل المنتجات عند تحميل الصفحة
+    document.addEventListener('DOMContentLoaded', function() {
+        // تحميل الكارت
+        loadCart();
+
+        // إعداد مستمعي الأحداث للمنتجات
+        setupProductEventListeners();
+    });
+</script> *@
+
+@* <div class="cart">
+        <div class="top_cart">
+            <h3>My cart <span class="count_item_cart">(0itme in cart)</span></h3>
+            <span onclick=" closeCart() " class="close_cart"><i class="fa-regular fa-circle-xmark"></i></span>
+        </div>
+        <div class="items_in_cart">
         </div>
 
-        <div class="button_Cart">
-            <a href="checkout.html" class="btn_cart">Proceed to checkout</a>
-            <button onclick="close_cart()" class="btn_cart trans_bg">Shop more</button>
+        <div class="bottom_Cart">
+            <div class="total">
+                <p>Cart subtotal</p>
+                <p class="price_cart_total">$0</p>
+            </div>
+
+            <div class="button_Cart">
+                <a href="checkout.html" class="btn_cart">Proceed to checkout</a>
+                <button onclick="close_cart()" class="btn_cart trans_bg">Shop more</button>
+            </div>
         </div>
-    </div>
 
-</div>
-
-
-<div class="top_page">
-    <div class="container">
-        <h1>Welcome to Ecommerce</h1>
-        <p>Find everything you need to transform your home into a smart, connected space. Our Topico store offers a wide range of devices to fit your needs</p>
-    </div>
-</div>
+    </div> *@
 
 
-<section class="all_products">
-    <div class="container">
+   
 
-        <div id="products_dev" class="products_dev">
+    <section class="all_products">
+        <div class="container">
+
+            <div id="products_dev" class="products_dev">
+
+            </div>
         </div>
-    </div>
 
 
 
-    <div class="pagination">
-        <span class="btn_page prev"><i class="fa-solid fa-backward-step"></i></span>
-        <a href="#"> <span class="num_page active">1</span></a>
-        <a href="#">  <span class="num_page">2</span></a>
-        <a href="#">  <span class="num_page">3</span></a>
-        <span class="btn_page next"><i class="fa-solid fa-forward-step"></i></span>
-    </div>
-</section>
+        <div class="pagination">
+            <span class="btn_page prev"><i class="fa-solid fa-backward-step"></i></span>
+            <a href="#"> <span class="num_page active">1</span></a>
+            <a href="#">  <span class="num_page">2</span></a>
+            <a href="#">  <span class="num_page">3</span></a>
+            <span class="btn_page next"><i class="fa-solid fa-forward-step"></i></span>
+        </div>
+    </section>
 
 
 
-<div class="back_to_top">
-    <p>back to top</p>
-</div>
 
+
+<script src="~/js/site.js"></script>
 <script src="~/js/all_prouducts.js"></script>

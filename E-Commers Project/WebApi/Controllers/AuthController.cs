@@ -1,4 +1,4 @@
-﻿using E_Commers_Project.Application.InterFaces;
+using E_Commers_Project.Application.InterFaces;
 using E_Commers_Project.Application.Services;
 using E_Commers_Project.Domain.Models;
 using Microsoft.AspNetCore.Authentication;
@@ -110,10 +110,10 @@ namespace E_Commers_Project.WebApi.Controllers
 
             var claims = new[]
             {
-            new Claim(ClaimTypes.NameIdentifier, user.Id.ToString()),
-            new Claim(ClaimTypes.Name, user.Email),
-            new Claim(ClaimTypes.Role, user.IsAdmin ? "Admin" : "User") // ✅ تحويل الـ bool إلى نص مناسب
-        // ✅ إضافة دور المستخدم إذا كان لديك أدوار
+                new Claim(JwtRegisteredClaimNames.Sub, user.Id.ToString()),
+                new Claim(JwtRegisteredClaimNames.Email, user.Email),
+                new Claim(ClaimTypes.Name, user.Name),
+                new Claim(ClaimTypes.Role, user.IsAdmin ? "Admin" : "User")
             };
 
             var token = new JwtSecurityToken(

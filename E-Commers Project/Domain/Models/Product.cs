@@ -15,6 +15,8 @@ namespace E_Commers_Project.Domain.Models
         public string Description { get; set; } = string.Empty;
         [Required, Range(0, double.MaxValue, ErrorMessage = "price must be a positive value")]
         public decimal Price { get; set; }
+        [Required, Range(0, double.MaxValue, ErrorMessage = "price must be a positive value")]
+        public decimal? oldPrice { get; set; }
         public int Stock { get; set; }
         public DateTime CreateAt { get; set; } = DateTime.UtcNow;
         public bool IsFavorite { get; set; } = false;

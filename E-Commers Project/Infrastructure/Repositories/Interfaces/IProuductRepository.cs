@@ -7,6 +7,7 @@ namespace E_Commers_Project.Infrastructure.Repositories.Interfaces
     {
         Task<List<Product>> GetProductsByCategoryIdAsync(int categoryId);
         public Task<List<Product>> GetAllProductsWithImgAsync();
+        public Task<List<Product>> GetProductById(List<int>? ids);
         //Task<List<Product>> GetTopRatedProductsAsync();
     }
     

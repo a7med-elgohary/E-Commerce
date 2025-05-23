@@ -18,55 +18,80 @@ document.addEventListener('DOMContentLoaded', function () {
                 if (container) container.innerHTML = '';
             });
 
-            // Process each product
+            // Process each product for flash sale (products with old_price)
             data.forEach(product => {
-                // Get product image (using first photo or default)
+                if (product.old_price) {
+                    const percent_disc = Math.floor((product.old_price - product.price) / product.old_price * 100);
+                    const productImg = product.photos?.[0]?.url || 'default.jpg';
+                    const productImgHover = product.photos?.[1]?.url || productImg;
+
+                    if (swiper_items_sale) {
+                        swiper_items_sale.innerHTML += `
+                            <div class="product swiper-slide">
+                                <div class="icons">
+                                    <span><i onclick="addToCart(${product.id}, this)" class="fa-solid fa-cart-plus"></i></span>
+                                    <span><i class="fa-solid fa-heart"></i></span>
+                                    <span><i class="fa-solid fa-share"></i></span>
+                                </div>
+                                <span class="sale_present">%${percent_disc}</span>
+                                <a href="/Home/Prouduct/${product.id}">
+                                    <div class="img_product">
+                                        <img src="${productImg}" alt="${product.name}" onerror="this.src='default.jpg'">
+                                        <img class="img_hover" src="${productImgHover}" alt="${product.name}" onerror="this.src='default.jpg'">
+                                    </div>
+                                    <h3 class="name_product"><a href="#">${product.name}</a></h3>
+                                    <div class="stars">
+                                        ${generateStarRating(product.rating || 5)}
+                                    </div>
+                                    <div class="price">
+                                        <p><span>$${(product.price || 0).toFixed(2)}</span></p>
+                                        <p class="old_price">$${(product.old_price || 0).toFixed(2)}</p>
+                                    </div>
+                                </a>
+                            </div>`;
+                    }
+                }
+            });
+
+            // Process each product for other sections
+            data.forEach(product => {
                 const productImg = product.photos?.[0]?.url || 'default.jpg';
                 const productImgHover = product.photos?.[1]?.url || productImg;
 
-                // Create product HTML
                 const productHtml = `
-                    <div class="product swiper-slide" data-product-id="${product.id}">
+                    <div class="product swiper-slide">
                         <div class="icons">
-                            <span><i class="fa-solid fa-cart-plus cart-icon"></i></span>
-                            <span><i class="fa-solid fa-heart wishlist-icon"></i></span>
-                            <span><i class="fa-solid fa-share share-icon"></i></span>
+                            <span><i onclick="addToCart(${product.id}, this)" class="fa-solid fa-cart-plus"></i></span>
+                            <span><i class="fa-solid fa-heart"></i></span>
+                            <span><i class="fa-solid fa-share"></i></span>
                         </div>
-                        ${product.saleId ? `
-                            <span class="sale_present">
-                                %${Math.floor((product.old_price - product.price) / product.old_price * 100)}
-                            </span>
-                        ` : ''}
-                        <div class="img_product">
-                            <img src="${productImg}" alt="${product.name}" onerror="this.src='default.jpg'">
-                            <img class="img_hover" src="${productImgHover}" alt="${product.name}" onerror="this.src='default.jpg'">
-                        </div>
-                        <h3 class="name_product"><a href="#">${product.name}</a></h3>
-                        <div class="stars">
-                            ${generateStarRating(product.rating || 5)} <!-- Default to 5 stars if no rating -->
-                        </div>
-                        <div class="price">
-                            <p><span>$${(product.price || 0).toFixed(2)}</span></p>
-                            ${product.old_price ? `<p class="old_price">$${(product.old_price || 0).toFixed(2)}</p>` : ''}
-                        </div>
-                    </div>
-                `;
+                        <a href="/Home/Prouduct/${product.id}">
+                            <div class="img_product">
+                                <img src="${productImg}" alt="${product.name}" onerror="this.src='default.jpg'">
+                                <img class="img_hover" src="${productImgHover}" alt="${product.name}" onerror="this.src='default.jpg'">
+                            </div>
+                            <h3 class="name_product"><a href="#">${product.name}</a></h3>
+                            <div class="stars">
+                                ${generateStarRating(product.rating || 5)}
+                            </div>
+                            <div class="price">
+                                <p><span>$${(product.price || 0).toFixed(2)}</span></p>
+                                ${product.old_price ? `<p class="old_price">$${(product.old_price || 0).toFixed(2)}</p>` : ''}
+                            </div>
+                        </a>
+                    </div>`;
 
-                // Add to appropriate containers
-                if (product.saleId && swiper_items_sale) {
-                    swiper_items_sale.innerHTML += productHtml;
-                }
-
+                // Add to other sections
                 if (other_product_swiper) {
                     other_product_swiper.innerHTML += productHtml;
                 }
-
+                
                 if (other_product_swiper2) {
                     other_product_swiper2.innerHTML += productHtml;
                 }
             });
 
-            // Initialize event listeners
+            // Set up event listeners
             setupProductEventListeners();
         })
         .catch(error => {
@@ -99,13 +124,14 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Event listeners setup
     function setupProductEventListeners() {
-        // Use event delegation for all product interactions
         document.addEventListener('click', function (e) {
             // Add to cart
             if (e.target.classList.contains('cart-icon')) {
                 const productElement = e.target.closest('.product');
                 const productId = parseInt(productElement?.dataset?.productId);
+
                 if (productId) {
+                    // 1. أضف المنتج للواجهة
                     addToCart(productId, e.target);
                 }
             }
@@ -121,6 +147,12 @@ document.addEventListener('DOMContentLoaded', function () {
                 // Add share logic here
             }
         });
+    }
+    function addToCart(productId) {
+        fetch(`/api/Cart/AddProductToCart/${productId}`, {
+            method: 'POST'
+        })
+
     }
 });
 

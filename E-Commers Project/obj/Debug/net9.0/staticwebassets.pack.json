@@ -5,6 +5,26 @@
       "PackagePath": "staticwebassets\\E-Commers Project.wmi20br7nf.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\AboutUs.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\AboutUs.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\AhmedElgohary.png",
+      "PackagePath": "staticwebassets\\Imgs\\AhmedElgohary.png"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\AhmedElgohary2.png",
+      "PackagePath": "staticwebassets\\Imgs\\AhmedElgohary2.png"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\AhmedHassan-removebg-preview.png",
+      "PackagePath": "staticwebassets\\Imgs\\AhmedHassan-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\Logo.png",
+      "PackagePath": "staticwebassets\\Imgs\\Logo.png"
+    },
+    {
       "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\banner\\banner-1.jpg",
       "PackagePath": "staticwebassets\\Imgs\\banner\\banner-1.jpg"
     },
@@ -47,6 +67,14 @@
     {
       "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\banner\\banner-sm-3.jpg",
       "PackagePath": "staticwebassets\\Imgs\\banner\\banner-sm-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\banner\\keyboard-2.png",
+      "PackagePath": "staticwebassets\\Imgs\\banner\\keyboard-2.png"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\banner\\keyborad-1.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\banner\\keyborad-1.jpg"
     },
     {
       "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\features1.png",
@@ -103,6 +131,14 @@
     {
       "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\payment-4.png",
       "PackagePath": "staticwebassets\\Imgs\\payment-4.png"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\product\\VR.png",
+      "PackagePath": "staticwebassets\\Imgs\\product\\VR.png"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\product\\XboxController.png",
+      "PackagePath": "staticwebassets\\Imgs\\product\\XboxController.png"
     },
     {
       "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\product\\product-1.jpg",
@@ -173,6 +209,10 @@
       "PackagePath": "staticwebassets\\Imgs\\product\\product8.jpg"
     },
     {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\product\\ps5Controller.png",
+      "PackagePath": "staticwebassets\\Imgs\\product\\ps5Controller.png"
+    },
+    {
       "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\slider-01.jpg",
       "PackagePath": "staticwebassets\\Imgs\\slider-01.jpg"
     },
@@ -185,12 +225,36 @@
       "PackagePath": "staticwebassets\\Imgs\\slider-03.jpg"
     },
     {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\slider-1.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\slider-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\slider-2.png",
+      "PackagePath": "staticwebassets\\Imgs\\slider-2.png"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\slider-3.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\slider-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\Imgs\\slider-4.jpg",
+      "PackagePath": "staticwebassets\\Imgs\\slider-4.jpg"
+    },
+    {
       "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\css\\AdminPanelStyle.css",
       "PackagePath": "staticwebassets\\css\\AdminPanelStyle.css"
     },
     {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\css\\Contact.css",
+      "PackagePath": "staticwebassets\\css\\Contact.css"
+    },
+    {
       "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\css\\FooterStayle.css",
       "PackagePath": "staticwebassets\\css\\FooterStayle.css"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\css\\about.css",
+      "PackagePath": "staticwebassets\\css\\about.css"
     },
     {
       "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\css\\loginStyle.css",
@@ -205,12 +269,16 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\js\\Login.js",
-      "PackagePath": "staticwebassets\\js\\Login.js"
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\js\\Category_prouducts.js",
+      "PackagePath": "staticwebassets\\js\\Category_prouducts.js"
     },
     {
       "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\js\\all_prouducts.js",
       "PackagePath": "staticwebassets\\js\\all_prouducts.js"
+    },
+    {
+      "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\js\\cart.js",
+      "PackagePath": "staticwebassets\\js\\cart.js"
     },
     {
       "Id": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\js\\items.json",

@@ -644,10 +644,8 @@ C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\obj\Debug\net9.0\scopedcss\b
 C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\obj\Debug\net9.0\scopedcss\projectbundle\E-Commers Project.bundle.scp.css
 C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\obj\Debug\net9.0\compressed\5espjcgok6-xidlg61s0r.gz
 C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\obj\Debug\net9.0\compressed\z04cuioszw-x5c7hwcvyu.gz
-C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\obj\Debug\net9.0\compressed\8rnqw88o44-lw4cr5ypp9.gz
 C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\obj\Debug\net9.0\compressed\gf0j1fibre-61n19gt1b8.gz
 C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\obj\Debug\net9.0\compressed\0tour6gc6e-w24g68caoo.gz
-C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\obj\Debug\net9.0\compressed\g50rbs0z92-v03fjvv62j.gz
 C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\obj\Debug\net9.0\compressed\3kj2oc5ii9-o2hmuadh23.gz
 C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\obj\Debug\net9.0\compressed\p61llrnqap-t1cqhe9u97.gz
 C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\obj\Debug\net9.0\compressed\7pyof4887o-c2jlpeoesf.gz
@@ -725,11 +723,16 @@ C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\obj\Debug\net9.0\refint\E-Co
 C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\obj\Debug\net9.0\E-Commers Project.pdb
 C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\obj\Debug\net9.0\E-Commers Project.genruntimeconfig.cache
 C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\obj\Debug\net9.0\ref\E-Commers Project.dll
-C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\obj\Debug\net9.0\compressed\2wz7j7uomt-r6d69alh08.gz
-C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
-C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\obj\Debug\net9.0\compressed\obhcwau4zg-27c4k92jsb.gz
 C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\bin\Debug\net9.0\AutoMapper.dll
 C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\obj\Debug\net9.0\compressed\hz9j0ea6nh-zo9gek0nfw.gz
-C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\obj\Debug\net9.0\compressed\mgw66xdn6x-1prkdnza4c.gz
-C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\obj\Debug\net9.0\compressed\wa8cu0fib1-jbou8l25xw.gz
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\obj\Debug\net9.0\compressed\9jqb9gdp8s-9r21dkc71f.gz
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\obj\Debug\net9.0\compressed\obhcwau4zg-3iq58y22h0.gz
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\obj\Debug\net9.0\compressed\8rnqw88o44-uz5zynccsk.gz
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\obj\Debug\net9.0\compressed\f15lcr5bd6-pcz4mm1q9a.gz
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\obj\Debug\net9.0\compressed\mgw66xdn6x-6cwalgig3g.gz
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\obj\Debug\net9.0\compressed\lyhqq9bifi-z3esd1p1fj.gz
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\obj\Debug\net9.0\compressed\2wz7j7uomt-0zr0g4qodb.gz
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\obj\Debug\net9.0\compressed\3aq1el1m7t-bkbxtppg0v.gz
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\obj\Debug\net9.0\compressed\hz9j0ea6nh-21opcuttau.gz
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\obj\Debug\net9.0\compressed\wa8cu0fib1-rup3k942lg.gz

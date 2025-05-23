@@ -26,6 +26,5 @@ namespace E_Commers.Infrastructure.data
 
 
 
-
     }
 }

@@ -1,0 +1,342 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.abo {
+    background-color: white;
+    margin-top:-30px;
+    
+}
+
+.all_abo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 60px 20px;
+    gap: 40px;
+}
+
+.abo-cotent {
+    flex: 1 1 500px;
+    max-width: 600px;
+}
+
+    .abo-cotent h2 {
+        font-size: 36px;
+        color: #Db4444;
+        margin-bottom: 30px;
+    }
+
+    .abo-cotent p {
+        font-size: 18px;
+        color: #333;
+        line-height: 1.6;
+        margin-bottom: 20px;
+    }
+
+    .abo-cotent button {
+        background-color: #Db4444;
+        color: #fff;
+        border: none;
+        padding: 12px 24px;
+        font-size: 16px;
+        cursor: pointer;
+        border-radius: 6px;
+        transition: all 0.3s ease;
+    }
+
+        .abo-cotent button:hover {
+            background-color: #c33;
+            transform: scale(1.05);
+        }
+
+.abo-img {
+    flex: 1 1 500px;
+    max-width: 600px;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+
+.container-abo {
+    padding: 20px;
+    text-align: center;
+}
+
+.category-abo {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 60px;
+    text-align: center;
+}
+
+    .category-abo a {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        width: 140px;
+        height: 140px;
+        border: 2px solid #ccc;
+        border-radius: 10px;
+        text-decoration: none;
+        color: black;
+        font-size: 14px;
+        transition: 0.3s;
+        background-color: white;
+    }
+
+        .category-abo a i {
+            font-size: 28px;
+            margin-bottom: 10px;
+        }
+
+        .category-abo a p {
+            margin: 0;
+            font-weight: bold;
+            font-size: 18px;
+            color: #333;
+        }
+
+        .category-abo a span {
+            display: block;
+            font-size: 12px;
+            color: #616161;
+        }
+
+        .category-abo a:hover {
+            background: var(--dark-red, #c62828);
+            color: #fff;
+            border-color: var(--dark-red, #c62828);
+
+        }
+
+            .category-abo a:hover i {
+                color: #fff;
+            }
+
+.section_mangers {
+    padding: 60px 20px;
+    background-color: #f9f9f9;
+    text-align: center;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    width: 300px;
+    padding: 20px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+    .card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+    }
+
+    .card img {
+        width: 250px;
+        height: auto;
+        border-radius: 8px;
+        margin-bottom: auto;
+    }
+
+    .card h3 {
+        font-size: 20px;
+        color: #Db4444;
+        margin-bottom: 8px;
+    }
+
+    .card p {
+        font-size: 14px;
+        color: #555;
+        line-height: 1.5;
+        margin-bottom: 10px;
+    }
+
+    .card span {
+        font-size: 15px;
+        color: #000000;
+    }
+
+    .card a {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        width: 35px;
+        height: 35px;
+        margin: 5px;
+        border: 1px solid #ccc;
+        border-radius: 50%;
+        color: #000000;
+        text-decoration: none;
+        transition: 0.3s;
+        font-size: 16px;
+        background-color: #fff;
+    }
+
+        .card a:hover {
+            background-color: #Db4444;
+            color: #fff;
+            border-color: #Db4444;
+        }
+
+        .card a i {
+            font-size: 20px;
+        }
+
+
+
+
+
+/* Responsive styles */
+@media (max-width: 768px) {
+    .abo-cotent h2 {
+        font-size: 28px;
+    }
+
+    .abo-cotent p {
+        font-size: 16px;
+    }
+
+    .abo-cotent button {
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 480px) {
+    .abo-cotent h2 {
+        font-size: 24px;
+    }
+
+    .abo-cotent p {
+        font-size: 15px;
+    }
+
+    .abo-cotent button {
+        font-size: 14px;
+        padding: 10px 20px;
+    }
+}
+
+@media (max-width: 320px) {
+    .abo-cotent h2 {
+        font-size: 20px;
+    }
+
+    .abo-cotent p {
+        font-size: 14px;
+    }
+
+    .abo-cotent button {
+        font-size: 12px;
+        padding: 8px 16px;
+    }
+}
+
+@media (max-width: 768px) {
+    .category-abo {
+        gap: 30px;
+    }
+
+        .category-abo a {
+            width: 120px;
+            height: 120px;
+        }
+
+            .category-abo a i {
+                font-size: 24px;
+            }
+
+            .category-abo a p {
+                font-size: 14px;
+            }
+
+            .category-abo a span {
+                font-size: 11px;
+            }
+}
+
+@media (max-width: 480px) {
+    .category-abo {
+        gap: 10px;
+        justify-content: center;
+    }
+
+        .category-abo a {
+            flex: 1 1 calc(45% - 10px); /* عنصرين في الصف مع مسافة بسيطة */
+            max-width: calc(45% - 10px);
+            height: 100px;
+            padding: 10px;
+        }
+
+            .category-abo a i {
+                font-size: 20px;
+                margin-bottom: 6px;
+            }
+
+            .category-abo a p {
+                font-size: 13px;
+            }
+
+            .category-abo a span {
+                font-size: 10px;
+            }
+}
+
+@media (max-width: 768px) {
+    .card {
+        width: 45%;
+        padding: 15px;
+    }
+
+        .card h3 {
+            font-size: 18px;
+        }
+
+        .card p {
+            font-size: 13px;
+        }
+}
+
+@media (max-width: 480px) {
+    .grid {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .card {
+        width: 90%;
+    }
+
+        .card h3 {
+            font-size: 16px;
+        }
+
+        .card p {
+            font-size: 12px;
+        }
+}
+
+
+
+/* Responsive styles for the image */

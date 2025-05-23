@@ -6,6 +6,6 @@ namespace E_Commers_Project.Application.InterFaces
 {
     public interface IHomeScreenService
     {
-        Task<HomeScreen> GetHomeScreenDataAsync();
+        Task<HomeScreen> GetHomeScreenDataAsync(int? id = null);
     }
 }

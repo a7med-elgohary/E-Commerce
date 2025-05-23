@@ -14,8 +14,9 @@ namespace E_Commers_Project.Domain.Models
         [ForeignKey("User")]
         public int UserId { get; set; }
         public DateTime CreateDate { get; set; }
+        public ICollection<CartItem?>? CartItems { get; set; } = new List<CartItem?>();
         // Navigation Properties
-        public required virtual User User { get; set; }
+        public virtual User User { get; set; }
 
     }
 }

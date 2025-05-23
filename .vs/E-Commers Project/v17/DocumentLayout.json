@@ -3,80 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\USERR\\Desktop\\E-Commerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E4C895C2-6426-495F-A2F1-55C5CD62749D}|E-Commers Project\\E-Commers Project.csproj|c:\\users\\userr\\desktop\\e-commerce\\e-commers project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E4C895C2-6426-495F-A2F1-55C5CD62749D}|E-Commers Project\\E-Commers Project.csproj|solutionrelative:e-commers project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4C895C2-6426-495F-A2F1-55C5CD62749D}|E-Commers Project\\E-Commers Project.csproj|c:\\users\\userr\\desktop\\e-commerce\\e-commers project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E4C895C2-6426-495F-A2F1-55C5CD62749D}|E-Commers Project\\E-Commers Project.csproj|solutionrelative:e-commers project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4C895C2-6426-495F-A2F1-55C5CD62749D}|E-Commers Project\\E-Commers Project.csproj|c:\\users\\userr\\desktop\\e-commerce\\e-commers project\\infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4C895C2-6426-495F-A2F1-55C5CD62749D}|E-Commers Project\\E-Commers Project.csproj|solutionrelative:e-commers project\\infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4C895C2-6426-495F-A2F1-55C5CD62749D}|E-Commers Project\\E-Commers Project.csproj|c:\\users\\userr\\desktop\\e-commerce\\e-commers project\\infrastructure\\repositories\\prouductrepository.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{E4C895C2-6426-495F-A2F1-55C5CD62749D}|E-Commers Project\\E-Commers Project.csproj|solutionrelative:e-commers project\\infrastructure\\repositories\\prouductrepository.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{E4C895C2-6426-495F-A2F1-55C5CD62749D}|E-Commers Project\\E-Commers Project.csproj|c:\\users\\userr\\desktop\\e-commerce\\e-commers project\\wwwroot\\js\\cart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E4C895C2-6426-495F-A2F1-55C5CD62749D}|E-Commers Project\\E-Commers Project.csproj|solutionrelative:e-commers project\\wwwroot\\js\\cart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E4C895C2-6426-495F-A2F1-55C5CD62749D}|E-Commers Project\\E-Commers Project.csproj|c:\\users\\userr\\desktop\\e-commerce\\e-commers project\\wwwroot\\js\\items_home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{E4C895C2-6426-495F-A2F1-55C5CD62749D}|E-Commers Project\\E-Commers Project.csproj|solutionrelative:e-commers project\\wwwroot\\js\\items_home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4C895C2-6426-495F-A2F1-55C5CD62749D}|E-Commers Project\\E-Commers Project.csproj|c:\\users\\userr\\desktop\\e-commerce\\e-commers project\\wwwroot\\js\\items.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E4C895C2-6426-495F-A2F1-55C5CD62749D}|E-Commers Project\\E-Commers Project.csproj|solutionrelative:e-commers project\\wwwroot\\js\\items.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4C895C2-6426-495F-A2F1-55C5CD62749D}|E-Commers Project\\E-Commers Project.csproj|c:\\users\\userr\\desktop\\e-commerce\\e-commers project\\views\\home\\allproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E4C895C2-6426-495F-A2F1-55C5CD62749D}|E-Commers Project\\E-Commers Project.csproj|solutionrelative:e-commers project\\views\\home\\allproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4C895C2-6426-495F-A2F1-55C5CD62749D}|E-Commers Project\\E-Commers Project.csproj|c:\\users\\userr\\desktop\\e-commerce\\e-commers project\\wwwroot\\js\\all_prouducts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{E4C895C2-6426-495F-A2F1-55C5CD62749D}|E-Commers Project\\E-Commers Project.csproj|solutionrelative:e-commers project\\wwwroot\\js\\all_prouducts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E4C895C2-6426-495F-A2F1-55C5CD62749D}|E-Commers Project\\E-Commers Project.csproj|c:\\users\\userr\\desktop\\e-commerce\\e-commers project\\webapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4C895C2-6426-495F-A2F1-55C5CD62749D}|E-Commers Project\\E-Commers Project.csproj|solutionrelative:e-commers project\\webapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4C895C2-6426-495F-A2F1-55C5CD62749D}|E-Commers Project\\E-Commers Project.csproj|c:\\users\\userr\\desktop\\e-commerce\\e-commers project\\webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4C895C2-6426-495F-A2F1-55C5CD62749D}|E-Commers Project\\E-Commers Project.csproj|solutionrelative:e-commers project\\webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4C895C2-6426-495F-A2F1-55C5CD62749D}|E-Commers Project\\E-Commers Project.csproj|c:\\users\\userr\\desktop\\e-commerce\\e-commers project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4C895C2-6426-495F-A2F1-55C5CD62749D}|E-Commers Project\\E-Commers Project.csproj|solutionrelative:e-commers project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4C895C2-6426-495F-A2F1-55C5CD62749D}|E-Commers Project\\E-Commers Project.csproj|c:\\users\\userr\\desktop\\e-commerce\\e-commers project\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|",
-      "RelativeMoniker": "D:0:0:{E4C895C2-6426-495F-A2F1-55C5CD62749D}|E-Commers Project\\E-Commers Project.csproj|solutionrelative:e-commers project\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|"
+      "AbsoluteMoniker": "D:0:0:{E4C895C2-6426-495F-A2F1-55C5CD62749D}|E-Commers Project\\E-Commers Project.csproj|c:\\users\\userr\\desktop\\e-commerce\\e-commers project\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E4C895C2-6426-495F-A2F1-55C5CD62749D}|E-Commers Project\\E-Commers Project.csproj|solutionrelative:e-commers project\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4C895C2-6426-495F-A2F1-55C5CD62749D}|E-Commers Project\\E-Commers Project.csproj|c:\\users\\userr\\desktop\\e-commerce\\e-commers project\\wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|",
-      "RelativeMoniker": "D:0:0:{E4C895C2-6426-495F-A2F1-55C5CD62749D}|E-Commers Project\\E-Commers Project.csproj|solutionrelative:e-commers project\\wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|"
+      "AbsoluteMoniker": "D:0:0:{E4C895C2-6426-495F-A2F1-55C5CD62749D}|E-Commers Project\\E-Commers Project.csproj|c:\\users\\userr\\desktop\\e-commerce\\e-commers project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4C895C2-6426-495F-A2F1-55C5CD62749D}|E-Commers Project\\E-Commers Project.csproj|solutionrelative:e-commers project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4C895C2-6426-495F-A2F1-55C5CD62749D}|E-Commers Project\\E-Commers Project.csproj|c:\\users\\userr\\desktop\\e-commerce\\e-commers project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4C895C2-6426-495F-A2F1-55C5CD62749D}|E-Commers Project\\E-Commers Project.csproj|solutionrelative:e-commers project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4C895C2-6426-495F-A2F1-55C5CD62749D}|E-Commers Project\\E-Commers Project.csproj|c:\\users\\userr\\desktop\\e-commerce\\e-commers project\\domain\\models\\productphoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4C895C2-6426-495F-A2F1-55C5CD62749D}|E-Commers Project\\E-Commers Project.csproj|solutionrelative:e-commers project\\domain\\models\\productphoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4C895C2-6426-495F-A2F1-55C5CD62749D}|E-Commers Project\\E-Commers Project.csproj|c:\\users\\userr\\desktop\\e-commerce\\e-commers project\\infrastructure\\repositories\\interfaces\\iprouductrepository.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{E4C895C2-6426-495F-A2F1-55C5CD62749D}|E-Commers Project\\E-Commers Project.csproj|solutionrelative:e-commers project\\infrastructure\\repositories\\interfaces\\iprouductrepository.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4C895C2-6426-495F-A2F1-55C5CD62749D}|E-Commers Project\\E-Commers Project.csproj|c:\\users\\userr\\desktop\\e-commerce\\e-commers project\\domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4C895C2-6426-495F-A2F1-55C5CD62749D}|E-Commers Project\\E-Commers Project.csproj|solutionrelative:e-commers project\\domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4C895C2-6426-495F-A2F1-55C5CD62749D}|E-Commers Project\\E-Commers Project.csproj|c:\\users\\userr\\desktop\\e-commerce\\e-commers project\\domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4C895C2-6426-495F-A2F1-55C5CD62749D}|E-Commers Project\\E-Commers Project.csproj|solutionrelative:e-commers project\\domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4C895C2-6426-495F-A2F1-55C5CD62749D}|E-Commers Project\\E-Commers Project.csproj|c:\\users\\userr\\desktop\\e-commerce\\e-commers project\\application\\services\\prouductservice.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{E4C895C2-6426-495F-A2F1-55C5CD62749D}|E-Commers Project\\E-Commers Project.csproj|solutionrelative:e-commers project\\application\\services\\prouductservice.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4C895C2-6426-495F-A2F1-55C5CD62749D}|E-Commers Project\\E-Commers Project.csproj|c:\\users\\userr\\desktop\\e-commerce\\e-commers project\\webapi\\controllers\\adminpanelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4C895C2-6426-495F-A2F1-55C5CD62749D}|E-Commers Project\\E-Commers Project.csproj|solutionrelative:e-commers project\\webapi\\controllers\\adminpanelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4C895C2-6426-495F-A2F1-55C5CD62749D}|E-Commers Project\\E-Commers Project.csproj|c:\\users\\userr\\desktop\\e-commerce\\e-commers project\\webapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C895C2-6426-495F-A2F1-55C5CD62749D}|E-Commers Project\\E-Commers Project.csproj|solutionrelative:e-commers project\\webapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 152,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -103,241 +55,97 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 248,
-          "SelectedChildIndex": 3,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "items.json",
-              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\js\\items.json",
-              "RelativeDocumentMoniker": "E-Commers Project\\wwwroot\\js\\items.json",
-              "ToolTip": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\js\\items.json",
-              "RelativeToolTip": "E-Commers Project\\wwwroot\\js\\items.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-04T01:08:50.782Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "all_prouducts.js",
-              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\js\\all_prouducts.js",
-              "RelativeDocumentMoniker": "E-Commers Project\\wwwroot\\js\\all_prouducts.js",
-              "ToolTip": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\js\\all_prouducts.js",
-              "RelativeToolTip": "E-Commers Project\\wwwroot\\js\\all_prouducts.js",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-05-04T00:52:25.289Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AllProducts.cshtml",
-              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\Views\\Home\\AllProducts.cshtml",
-              "RelativeDocumentMoniker": "E-Commers Project\\Views\\Home\\AllProducts.cshtml",
-              "ToolTip": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\Views\\Home\\AllProducts.cshtml",
-              "RelativeToolTip": "E-Commers Project\\Views\\Home\\AllProducts.cshtml",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-04T00:42:16.264Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "E-Commers Project\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "E-Commers Project\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADUAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-04T00:30:04.81Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\WebApi\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "E-Commers Project\\WebApi\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\WebApi\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "E-Commers Project\\WebApi\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T05:52:58.774Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "E-Commers Project\\wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "E-Commers Project\\wwwroot\\js\\site.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-05-02T04:02:37.934Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\WebApi\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "E-Commers Project\\WebApi\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\WebApi\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "E-Commers Project\\WebApi\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAcwB8AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T02:11:44.349Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\Domain\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "E-Commers Project\\Domain\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\Domain\\Models\\Product.cs",
-              "RelativeToolTip": "E-Commers Project\\Domain\\Models\\Product.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBgAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T23:19:51.596Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ProductPhoto.cs",
-              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\Domain\\Models\\ProductPhoto.cs",
-              "RelativeDocumentMoniker": "E-Commers Project\\Domain\\Models\\ProductPhoto.cs",
-              "ToolTip": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\Domain\\Models\\ProductPhoto.cs",
-              "RelativeToolTip": "E-Commers Project\\Domain\\Models\\ProductPhoto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T23:16:17.536Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IProuductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\Infrastructure\\Repositories\\Interfaces\\IProuductRepository.cs",
-              "RelativeDocumentMoniker": "E-Commers Project\\Infrastructure\\Repositories\\Interfaces\\IProuductRepository.cs",
-              "ToolTip": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\Infrastructure\\Repositories\\Interfaces\\IProuductRepository.cs",
-              "RelativeToolTip": "E-Commers Project\\Infrastructure\\Repositories\\Interfaces\\IProuductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T23:11:27.359Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "main.js",
-              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\js\\main.js",
-              "RelativeDocumentMoniker": "E-Commers Project\\wwwroot\\js\\main.js",
-              "ToolTip": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\js\\main.js",
-              "RelativeToolTip": "E-Commers Project\\wwwroot\\js\\main.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-05-01T22:56:45.358Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProuductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\Infrastructure\\Repositories\\ProuductRepository.cs",
-              "RelativeDocumentMoniker": "E-Commers Project\\Infrastructure\\Repositories\\ProuductRepository.cs",
-              "ToolTip": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\Infrastructure\\Repositories\\ProuductRepository.cs",
-              "RelativeToolTip": "E-Commers Project\\Infrastructure\\Repositories\\ProuductRepository.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAArwBkAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T22:32:28.058Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "items_home.js",
               "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\js\\items_home.js",
               "RelativeDocumentMoniker": "E-Commers Project\\wwwroot\\js\\items_home.js",
               "ToolTip": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\js\\items_home.js",
               "RelativeToolTip": "E-Commers Project\\wwwroot\\js\\items_home.js",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-05-01T22:18:14.954Z"
+              "WhenOpened": "2025-05-23T18:27:22.807Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ProuductService.cs",
-              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\Application\\Services\\ProuductService.cs",
-              "RelativeDocumentMoniker": "E-Commers Project\\Application\\Services\\ProuductService.cs",
-              "ToolTip": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\Application\\Services\\ProuductService.cs",
-              "RelativeToolTip": "E-Commers Project\\Application\\Services\\ProuductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAoAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T22:13:17.382Z"
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "E-Commers Project\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "E-Commers Project\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAAAKQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T18:18:23.968Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\Program.cs",
-              "RelativeDocumentMoniker": "E-Commers Project\\Program.cs",
-              "ToolTip": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\Program.cs",
-              "RelativeToolTip": "E-Commers Project\\Program.cs",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGwAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T22:11:49.22Z"
+              "DocumentIndex": 4,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "E-Commers Project\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "E-Commers Project\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAACcAAAAAAAAAAAAQwDoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-23T18:14:19.019Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "AdminPanelController.cs",
-              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\WebApi\\Controllers\\AdminPanelController.cs",
-              "RelativeDocumentMoniker": "E-Commers Project\\WebApi\\Controllers\\AdminPanelController.cs",
-              "ToolTip": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\WebApi\\Controllers\\AdminPanelController.cs",
-              "RelativeToolTip": "E-Commers Project\\WebApi\\Controllers\\AdminPanelController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T08:14:49.688Z"
+              "DocumentIndex": 0,
+              "Title": "cart.js",
+              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\js\\cart.js",
+              "RelativeDocumentMoniker": "E-Commers Project\\wwwroot\\js\\cart.js",
+              "ToolTip": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\wwwroot\\js\\cart.js",
+              "RelativeToolTip": "E-Commers Project\\wwwroot\\js\\cart.js",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAI4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-23T18:14:02.588Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\Infrastructure\\Repositories\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "E-Commers Project\\Infrastructure\\Repositories\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\Infrastructure\\Repositories\\CategoryRepository.cs",
-              "RelativeToolTip": "E-Commers Project\\Infrastructure\\Repositories\\CategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T08:14:47.332Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "E-Commers Project\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "E-Commers Project\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-01T08:13:56.397Z"
+              "WhenOpened": "2025-05-23T18:09:16.137Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\Domain\\Models\\User.cs",
-              "RelativeDocumentMoniker": "E-Commers Project\\Domain\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\Domain\\Models\\User.cs",
-              "RelativeToolTip": "E-Commers Project\\Domain\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\WebApi\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "E-Commers Project\\WebApi\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\WebApi\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "E-Commers Project\\WebApi\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwCwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T08:09:45.558Z"
+              "WhenOpened": "2025-05-23T18:07:28.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\WebApi\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "E-Commers Project\\WebApi\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\USERR\\Desktop\\E-Commerce\\E-Commers Project\\WebApi\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "E-Commers Project\\WebApi\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwKsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T18:06:38.18Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,0 +1,106 @@
+﻿@model int?
+@{
+    ViewData["Title"] = "CategoryPage";
+    var categoryId = Model ?? 0; // نضمن وجود قيمة
+}
+@* <div class="cart">
+    <div class="top_cart">
+        <h3>My cart <span class="count_item_cart">(0 item in cart)</span></h3>
+        <span onclick="closeCart()" class="close_cart"><i class="fa-regular fa-circle-xmark"></i></span>
+    </div>
+    <div class="items_in_cart"></div>
+
+    <div class="bottom_Cart">
+        <div class="total">
+            <p>Cart subtotal</p>
+            <p class="price_cart_total">$0</p>
+        </div>
+
+        <div class="button_Cart">
+            <a href="checkout.html" class="btn_cart">Proceed to checkout</a>
+            <button onclick="close_cart()" class="btn_cart trans_bg">Shop more</button>
+        </div>
+    </div>
+</div>
+ *@
+<section class="all_products">
+    <div class="container">
+        <div id="products_dev" class="products_dev"></div>
+    </div>
+
+    <div class="pagination">
+        <span class="btn_page prev"><i class="fa-solid fa-backward-step"></i></span>
+        <a href="#"> <span class="num_page active">1</span></a>
+        <a href="#"> <span class="num_page">2</span></a>
+        <a href="#"> <span class="num_page">3</span></a>
+        <span class="btn_page next"><i class="fa-solid fa-forward-step"></i></span>
+    </div>
+</section>
+
+<script>
+    const id = @categoryId;
+
+    if (id > 0) {
+        fetch(`/api/Product/GetCategoryProuducts/${id}`)
+        .then(response => {
+            if (!response.ok) {
+                throw new Error(`HTTP error! status: ${response.status}`);
+            }
+            return response.json();
+        })
+        .then(data => {
+            window.all_products_json = data;
+            const products_dev = document.getElementById("products_dev");
+
+            if (!products_dev) {
+                console.error('products_dev element not found');
+                return;
+            }
+
+            data.forEach(product => {
+                const mainPhoto = product.photos[0];
+                const hoverPhoto = product.photos[1];
+
+                const mainImageUrl = mainPhoto ? mainPhoto.url.replace(/\\/g, '/') : '';
+                const hoverImageUrl = hoverPhoto ? hoverPhoto.url.replace(/\\/g, '/') : '';
+
+                products_dev.innerHTML += `
+                    <a href="/Home/Prouduct/${product.id}">
+
+                    <div class="product swiper-slide">
+                        <div class="icons">
+                            <span><i onclick="addToCart(${product.id}, this)" class="fa-solid fa-cart-plus"></i></span>
+                            <span><i class="fa-solid fa-heart"></i></span>
+                            <span><i class="fa-solid fa-share"></i></span>
+                        </div>
+
+                        <div class="img_product">
+                            <img src="${mainImageUrl}" alt="${product.name}">
+                            ${hoverImageUrl ? `<img class="img_hover" src="${hoverImageUrl}" alt="${product.name} - hover">` : ''}
+                        </div>
+
+                        <h3 class="name_product"><a href="#">${product.name}</a></h3>
+
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+
+                        <div class="price">
+                            <p><span>$${(product.price / 100).toFixed(2)}</span></p>
+                        </div>
+                    </div>
+                    </a>
+                `;
+            });
+        })
+        .catch(error => {
+            console.error('Error fetching products:', error);
+        });
+    } else {
+        console.warn('No category ID provided. Cannot fetch products.');
+    }
+</script>

@@ -25,7 +25,17 @@ namespace E_Commers_Project.Infrastructure.Repositories
         {
             return await _dbSet.Include(p => p.Photos).ToListAsync();
         }
+        public override async Task<Product?> GetByIdAsync(int id)
+        {
 
+            Product? result = await _dbSet.Include(c => c.Photos)
+                .Include(e=>e.Category)
+                .FirstOrDefaultAsync(c => c.Id == id);
+                
+
+
+            return result ;
+        }
         //public async Task<List<Product>> GetTopRatedProductsAsync()
         //{
         //    //return await _dbSet
@@ -34,8 +44,15 @@ namespace E_Commers_Project.Infrastructure.Repositories
         //    //    .ToListAsync();
         //}
 
+        public async Task<List<Product>?> GetProductById(List<int>? ids)
+        {
+            var data = await _dbSet
+                .Where(x => ids.Contains(x.Id))
+                .Include(x => x.Photos)
+                .ToListAsync();
 
-
+            return data;
+        }
 
     }
 }

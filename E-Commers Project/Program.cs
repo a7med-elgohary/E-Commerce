@@ -28,6 +28,22 @@ namespace E_Commers_Project
                 options.Cookie.IsEssential = true;
             });
 
+            // إضافة JWT Authentication
+            builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+                .AddJwtBearer(options =>
+                {
+                    options.TokenValidationParameters = new TokenValidationParameters
+                    {
+                        ValidateIssuer = true,
+                        ValidateAudience = true,
+                        ValidateLifetime = true,
+                        ValidateIssuerSigningKey = true,
+                        ValidIssuer = builder.Configuration["Jwt:Issuer"],
+                        ValidAudience = builder.Configuration["Jwt:Audience"],
+                        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["Jwt:Key"]))
+                    };
+                });
+
             builder.Services.AddAuthorization();
 
             // ✅ إضافة إعدادات JsonSerializer
@@ -44,13 +60,19 @@ namespace E_Commers_Project
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
             // ✅ إضافة Dependency Injection
+            // Repositories
             builder.Services.AddScoped<IUserRepository, UserRepository>();
             builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
+            builder.Services.AddScoped<IProuductRepository, ProuductRepository>();
+            builder.Services.AddScoped<ICartRepository, CartRepository>();
+            builder.Services.AddScoped<CartItemRepository>();
+
+            // Services
             builder.Services.AddScoped<IUserService, UserService>();
             builder.Services.AddScoped<ICategoryService, CategoryService>();
+            builder.Services.AddScoped<IProuductService, ProuductService>();
             builder.Services.AddScoped<IHomeScreenService, HomeScreenService>();
-            builder.Services.AddScoped<IProuductRepository , ProuductRepository>();
-            builder.Services.AddScoped<IProuductService , ProuductService>();
+
 
             // ✅ إضافة CORS (إذا كان مطلوبًا)
             builder.Services.AddCors(options =>
@@ -92,14 +114,17 @@ namespace E_Commers_Project
                 });
             }
 
-            app.UseAuthorization();
+            app.UseRouting();
             app.UseHttpsRedirection();
             app.UseStaticFiles();
-            app.UseRouting();
             app.UseSession();
-
+            
             // ✅ تفعيل CORS
             app.UseCors("AllowAll");
+            
+            // يجب أن تأتي المصادقة والتفويض بعد CORS
+            app.UseAuthentication();
+            app.UseAuthorization();
 
             // ✅ تفعيل الـ Routes
             app.MapControllerRoute(

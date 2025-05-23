@@ -4,14 +4,12 @@
 <head>
     <meta name="viewport" content="width=device-width" />
     <title>@ViewBag.Title</title>
-    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="~/css/FooterStayle.css" asp-append-version="true" />
     <style>
 
     </style>
 </head>
 <body>
-    <header>
+   @*  <header>
         <nav class="navbar navbar-expand-sm bg-dark">
             <div class="container-fluid">
                 <a class="navbar-brand text-light" asp-area="" asp-controller="Home" asp-action="Index">AdminPanel</a>
@@ -31,11 +29,11 @@
                 </div>
             </div>
         </nav>
-    </header>
+    </header> *@
     <main>
         @RenderBody()
     </main>
-    <footer>
+    @* <footer>
         <div id ="container">
             <div class="big_row">
                 <img src="~/Imgs/logoecommers.jpg" alt="">
@@ -101,11 +99,9 @@
                 </div>
             </div>
         </div>
-    </footer>
+    </footer> *@
 
 
-    <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     @await RenderSectionAsync("Scripts", required: false)
 
 </body>

@@ -3,6 +3,7 @@ C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\j
 C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
 C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\css\site.css
 C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\js\cart.js
 C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\js\swiper.js
 C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
 C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
@@ -14,6 +15,7 @@ C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\c
 C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\jquery\dist\jquery.min.js
 C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
 C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\css\loginStyle.css
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\css\Contact.css
 C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
 C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
 C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
@@ -24,9 +26,9 @@ C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\jquery\dist\jque
 C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
 C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
 C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\css\about.css
 C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\jquery\dist\jquery.slim.min.map
 C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
-C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\js\Login.js
 C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\favicon.ico
 C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
 C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
@@ -43,6 +45,7 @@ C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\j
 C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\jquery-validation\dist\jquery.validate.js
 C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
 C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\js\Category_prouducts.js
 C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\js\all_prouducts.js
 C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
 C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
@@ -69,11 +72,17 @@ C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\js\items_home.js
 C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
 C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
 C:\Users\USERR\Desktop\E-Commerce\E-Commers Project\wwwroot\css\FooterStayle.css
+wwwroot\css\about.css
 wwwroot\css\AdminPanelStyle.css
+wwwroot\css\Contact.css
 wwwroot\css\FooterStayle.css
 wwwroot\css\loginStyle.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\Imgs\AboutUs.jpg
+wwwroot\Imgs\AhmedElgohary.png
+wwwroot\Imgs\AhmedElgohary2.png
+wwwroot\Imgs\AhmedHassan-removebg-preview.png
 wwwroot\Imgs\banner\banner-1.jpg
 wwwroot\Imgs\banner\banner-2.jpg
 wwwroot\Imgs\banner\banner-3.jpg
@@ -85,6 +94,8 @@ wwwroot\Imgs\banner\banner-8.jpg
 wwwroot\Imgs\banner\banner-sm-1.jpg
 wwwroot\Imgs\banner\banner-sm-2.jpg
 wwwroot\Imgs\banner\banner-sm-3.jpg
+wwwroot\Imgs\banner\keyboard-2.png
+wwwroot\Imgs\banner\keyborad-1.jpg
 wwwroot\Imgs\features1.png
 wwwroot\Imgs\features2.png
 wwwroot\Imgs\features3.png
@@ -92,6 +103,7 @@ wwwroot\Imgs\features4.png
 wwwroot\Imgs\features5.png
 wwwroot\Imgs\icon_email.png
 wwwroot\Imgs\image.png
+wwwroot\Imgs\Logo.png
 wwwroot\Imgs\logo-black.png
 wwwroot\Imgs\logoecommers.jpg
 wwwroot\Imgs\logo-white.png
@@ -116,13 +128,21 @@ wwwroot\Imgs\product\product-7.jpg
 wwwroot\Imgs\product\product8.jpg
 wwwroot\Imgs\product\product-8.jpg
 wwwroot\Imgs\product\product-9.jpg
+wwwroot\Imgs\product\ps5Controller.png
+wwwroot\Imgs\product\VR.png
+wwwroot\Imgs\product\XboxController.png
 wwwroot\Imgs\slider-01.jpg
 wwwroot\Imgs\slider-02.jpg
 wwwroot\Imgs\slider-03.jpg
+wwwroot\Imgs\slider-1.jpg
+wwwroot\Imgs\slider-2.png
+wwwroot\Imgs\slider-3.jpg
+wwwroot\Imgs\slider-4.jpg
 wwwroot\js\all_prouducts.js
+wwwroot\js\cart.js
+wwwroot\js\Category_prouducts.js
 wwwroot\js\items.json
 wwwroot\js\items_home.js
-wwwroot\js\Login.js
 wwwroot\js\main.js
 wwwroot\js\site.js
 wwwroot\js\swiper.js
